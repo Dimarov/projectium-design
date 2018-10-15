@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 0,
+    "x": 29,
     "y": 8
   },
   "hasClippingMask": false,
@@ -26,15 +26,15 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "ic_mail",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "115361D3-CEED-467B-AB52-02D5FC699545",
-      "overrideName": "630EE12C-03CB-4BAD-8C07-07DE4FB9DE64_symbolID",
+      "do_objectID": "52A9DF4B-4E4F-451D-87AC-12B692DD5643",
+      "overrideName": "E54EB9F3-4444-4C06-86E0-97A3DB1D881D_symbolID",
       "value": "F2387398-F2D0-48D7-83DC-0BFD9AED07A2"
     }
   ],
@@ -50,6 +50,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "19EBD822-2A0E-493A-9D1B-A1D6DAF5B088",
+  "symbolID": "7904229C-C5EC-49D3-AD61-43E00BCBDB25",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

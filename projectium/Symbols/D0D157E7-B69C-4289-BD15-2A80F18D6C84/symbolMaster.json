@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 468,
+  "changeIdentifier": 1433,
   "clippingMaskMode": 0,
   "do_objectID": "D0D157E7-B69C-4289-BD15-2A80F18D6C84",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 247,
+    "height": 384,
     "width": 1440,
     "x": 572,
     "y": 0
@@ -55,6 +55,14 @@
     {
       "class": "group",
       "id": "630CB863-4D90-4E3C-BAA9-17B1D7ED84C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5342F32C-D339-43C4-911C-41DCE1FF7567"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FBF25E9-496C-437F-BF6E-64C4A4EE5CC6"
     }
   ],
   "layout": {

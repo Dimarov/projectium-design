@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 247,
+    "height": 384,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -89,7 +89,9 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "animaSymbolBackground": 1
+      "animaSymbolBackground": 1,
+      "kModelPropertiesKey": {
+      }
     }
   }
 }

@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 44,
+    "x": 76,
     "y": 8
   },
   "hasClippingMask": false,
@@ -51,5 +51,11 @@
     "windingRule": 1
   },
   "symbolID": "B77B501E-538E-4029-869A-9A6E3EF27423",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

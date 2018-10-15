@@ -8,7 +8,7 @@
     "red": 0.3869313350340136
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2432,
+  "changeIdentifier": 7990,
   "clippingMaskMode": 0,
   "do_objectID": "7B956780-AF0A-4EC8-BE44-0DFBEDF92A46",
   "exportOptions": {
@@ -24,8 +24,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 172,
-    "x": 3180,
+    "width": 160,
+    "x": 3151,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -49,10 +49,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "46CCAD79-4429-44B0-A152-705E917B1C20"
-    },
-    {
       "class": "symbolInstance",
       "id": "4CE1F751-5332-45D1-A432-11037FEDCF0D"
     },
@@ -65,8 +61,12 @@
       "id": "6940E3DB-FC87-4393-89DC-24609563147B"
     },
     {
+      "class": "group",
+      "id": "9401FC4B-117B-43BC-A1C2-6E4FC0AD72F0"
+    },
+    {
       "class": "symbolInstance",
-      "id": "337A7FED-1679-4BC9-91B6-CD7259CD5D88"
+      "id": "F9CAE60B-94EA-460D-BEDC-B1777329E30B"
     }
   ],
   "name": "Loggedin",

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 247,
+    "height": 384,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -35,6 +35,12 @@
       "_class": "overrideValue",
       "do_objectID": "7B00B158-70B3-4209-A7CC-D4AFF866E63D",
       "overrideName": "5CBBDD8D-3B39-4DCF-884C-CC067DE8927B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D504194C-3466-41DD-B3B3-8DE39F0496B0",
+      "overrideName": "9FBF25E9-496C-437F-BF6E-64C4A4EE5CC6_symbolID",
       "value": ""
     }
   ],
