@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D6C9965-4EA2-401C-BFB9-6AD6EEEBC059",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D26ADFCE-6D0A-447C-9100-4C7A72E60DFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB07C82F-75A8-48EB-A4DA-22573F77239C",
+    "height": 35,
+    "width": 250,
+    "x": 38.57142857142935,
+    "y": 66.48923679060665
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5E05E1C2-B235-487A-BBA7-337306460185"
+    },
+    {
+      "class": "group",
+      "id": "8BB486E5-801F-41BA-A5AF-5E4B2758A510"
+    },
+    {
+      "class": "text",
+      "id": "C2363FFD-F5EF-4ACD-8EA8-ECCB29F8E2F6"
+    }
+  ],
+  "name": "email-field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2F39F90C-3A5C-482B-ABDD-6ABDB2667D65",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.142857142857142,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8ABA562E-BC53-4A2B-9D9E-AC7626DF927E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

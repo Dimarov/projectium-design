@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B59A129-118C-4FC5-A708-1791D9CDD004",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E7D79E6-CB8B-49D6-BC6B-D3B14E612384",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3050E22B-5AFE-4FB7-9916-CF334E5A221E",
+    "height": 35,
+    "width": 115,
+    "x": 28.57142857142857,
+    "y": 112.9602087410307
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "952B9853-DC14-4D59-A2F4-86D1EF5DEDB1"
+    },
+    {
+      "class": "rectangle",
+      "id": "A52CD15A-6755-4DF7-9C03-71834A0EEF2D"
+    },
+    {
+      "class": "group",
+      "id": "2F883936-4C91-458A-A847-0E18E7C9C763"
+    },
+    {
+      "class": "text",
+      "id": "F821DADB-C0CB-4F5F-955B-BC3112D07B91"
+    }
+  ],
+  "name": "linkedin-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AF9F1E8D-CD28-4DBC-9B87-EA1A5F7556A0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.142857142857142,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1CF92D19-148F-4E2F-8BC4-B1C34788410E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9ABA38FF-2560-4C21-81DC-872C54189DF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09684C3C-27CF-47DC-A35B-3AD927108772",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA1AE3D1-BAD9-48B5-BDE9-33716A27CE71",
+    "height": 965,
+    "width": 420,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "98FD2694-8827-4C99-BCE8-9212BA05026D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BF3B165-280B-4B1C-A917-455B1ECFB812"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AE33937-461C-47A3-84D2-E6FDA5360471"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68811FDB-E138-4A01-9B73-CD2DDD70DDF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "368C1627-4FB3-445A-A02E-0190EC5B2619"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00BDB665-4022-453E-B973-67C9D6067853"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25497FB7-3ACC-4CA6-A8EC-DD791E8A5C0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F5CE4B3-6BB4-447E-AF93-9D5657B775A6"
+    },
+    {
+      "class": "text",
+      "id": "DDFFD894-6279-48B2-91BB-3B355112FFD1"
+    }
+  ],
+  "name": "dragndrop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "797EDD3E-2102-446F-8695-F8139DEBCE54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "dragndrop",
+        "variableIDSketchID": "9ABA38FF-2560-4C21-81DC-872C54189DF5"
+      }
+    }
+  }
+}

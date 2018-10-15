@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF593568-7DF5-44C9-B447-0488E527B5EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AA4FB21-98C0-4C39-B87E-7C0D0E014ACD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BCA8017-2C69-4B66-95C0-5742774FB27E",
+    "height": 1580,
+    "width": 730,
+    "x": 775,
+    "y": 355
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E128E37B-72D5-473F-B554-CCED6A482CFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E499B501-46C9-435F-B017-0348C3F47CC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7318494D-88D8-417B-9FCF-32FB4DF2E535"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA679928-F167-418A-BC8A-D588BBB7E0E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09486736-714E-4911-BE4D-53796DCCA4F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2006111B-5907-4F2B-8C38-92E74AEE2080"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F50ED8C1-BE46-4D65-9316-376BE4595171"
+    },
+    {
+      "class": "group",
+      "id": "B44FA8B3-86EC-442E-B482-66932E85EDBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D33278FA-75BF-4C1A-BA7B-860A5E0F6A11"
+    }
+  ],
+  "name": "cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44DAA342-1672-4685-AD71-6654232FF876",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "cards",
+        "variableIDSketchID": "CF593568-7DF5-44C9-B447-0488E527B5EE"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D962803B-8115-420F-9850-C118E5803445",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6286BFC-4DF0-4FA2-9718-4ACAD0F06AD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCD9A21D-24B2-4448-B38A-627ADD3E4A19",
+    "height": 1580,
+    "width": 730,
+    "x": 525,
+    "y": 275
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "92B55468-88D1-492B-8A50-A2AFF67ED81A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AF81AAF-D860-4907-8EF0-011EEAEF1BD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FC596D9-7A58-4E0B-87A2-52CC78B52059"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF3EFAF0-712C-446A-AF87-A7DA3E30FAC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F500D23-963D-4B79-9EAF-2BA6863FE094"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21A696FD-FC06-428E-BD73-0E2916DA3603"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A6745F-806E-407F-BDDC-3DFEA5138719"
+    },
+    {
+      "class": "group",
+      "id": "02325734-FB55-4D9C-A8E2-12216B0D4654"
+    }
+  ],
+  "name": "cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBE1EBB5-E1A7-41FF-AF24-4662F7A45BC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "cards",
+        "variableIDSketchID": "D962803B-8115-420F-9850-C118E5803445"
+      }
+    }
+  }
+}

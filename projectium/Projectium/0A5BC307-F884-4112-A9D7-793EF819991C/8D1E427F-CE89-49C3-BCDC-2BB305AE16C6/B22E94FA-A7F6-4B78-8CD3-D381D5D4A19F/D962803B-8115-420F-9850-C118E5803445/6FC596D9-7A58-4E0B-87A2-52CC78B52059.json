@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FC596D9-7A58-4E0B-87A2-52CC78B52059",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A7512E1-185B-457D-838C-F7CF2EC5D9C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D81F88A6-9455-4CB4-B83E-3B4D6964F465",
+    "height": 200,
+    "width": 350,
+    "x": 380,
+    "y": 690
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ProfileCard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25D51D39-E082-4062-8640-E6A014B62EF0",
+      "overrideName": "761F514D-45E5-4929-A3CF-9ACDB0784220_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61F582CD-F006-489B-87B5-65A412FD875C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0BD08F3-FBF2-404C-ABFA-BBC324A7387E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "profileCard4",
+        "variableIDSketchID": "8F6D9575-E0A8-481A-A33C-BA588D993C3E"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

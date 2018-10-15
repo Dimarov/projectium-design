@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.7061543367346939,
+    "green": 0.7061543367346939,
+    "red": 0.7061543367346939
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 124,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9562AEE-BB84-4B74-ACB8-0265EAB79A69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 500,
+    "x": 4560,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6B4EFDC4-8C4A-4CB2-96C6-AEF081C2514A"
+    },
+    {
+      "class": "group",
+      "id": "ECEA7010-F096-4688-ADD8-BE7E0B9EB5D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "340494FD-5125-4585-82EB-B048CF19F1D7"
+    },
+    {
+      "class": "oval",
+      "id": "1F9EC9A9-8341-4FF2-8AB5-B0EA075F1FD8"
+    },
+    {
+      "class": "text",
+      "id": "1969354F-F2FA-4AC1-A981-804C93157015"
+    },
+    {
+      "class": "text",
+      "id": "AE0F0936-7EFF-42C0-849A-5FDE3B776B6E"
+    },
+    {
+      "class": "text",
+      "id": "DE60C0B9-4786-41D7-8BAE-B57AF2E2A5E8"
+    },
+    {
+      "class": "group",
+      "id": "C4B27D6B-4E4F-4675-8C2E-1AE9AD6F0DC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64F36FC1-56A9-4FF5-96D0-2974BFDEAFE4"
+    }
+  ],
+  "name": "ProfileInfo",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C61EA0E3-BC3A-46C3-9589-A701320AE8D2",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

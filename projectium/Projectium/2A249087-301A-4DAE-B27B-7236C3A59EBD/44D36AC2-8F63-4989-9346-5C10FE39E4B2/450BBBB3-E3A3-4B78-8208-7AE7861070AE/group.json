@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "450BBBB3-E3A3-4B78-8208-7AE7861070AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16C1EF4D-B942-482A-A9B7-A378B2B08848",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3023A93D-60C5-4B33-9840-72F48214941B",
+    "height": 1935,
+    "width": 1636,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B8790423-608B-4A13-989B-67B557381260"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06B67D4A-A749-4C25-9B36-7D038877B5C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D4FF6EB-40B2-4E04-BD14-7CB4BB909B83"
+    },
+    {
+      "class": "group",
+      "id": "CF593568-7DF5-44C9-B447-0488E527B5EE"
+    },
+    {
+      "class": "group",
+      "id": "FB5A9591-3612-4ED6-AE28-3F8AD996BC7B"
+    },
+    {
+      "class": "group",
+      "id": "9ABA38FF-2560-4C21-81DC-872C54189DF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5913683E-9632-405D-8D85-3DADACAAF7DE"
+    }
+  ],
+  "name": "content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0DD4030-7FAC-413C-B3DA-997E9BA90285",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "content",
+        "variableIDSketchID": "450BBBB3-E3A3-4B78-8208-7AE7861070AE"
+      }
+    }
+  }
+}

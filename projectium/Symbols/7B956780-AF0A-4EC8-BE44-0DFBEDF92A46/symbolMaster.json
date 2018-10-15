@@ -1,0 +1,98 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3869313350340136,
+    "green": 0.3869313350340136,
+    "red": 0.3869313350340136
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2432,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B956780-AF0A-4EC8-BE44-0DFBEDF92A46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 172,
+    "x": 3180,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "46CCAD79-4429-44B0-A152-705E917B1C20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CE1F751-5332-45D1-A432-11037FEDCF0D"
+    },
+    {
+      "class": "group",
+      "id": "A5A11ECE-1992-4E0E-99C3-8CB1706D0C2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6940E3DB-FC87-4393-89DC-24609563147B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "337A7FED-1679-4BC9-91B6-CD7259CD5D88"
+    }
+  ],
+  "name": "Loggedin",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B220CF10-1025-4E11-AF20-7313B3A8AB5A",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

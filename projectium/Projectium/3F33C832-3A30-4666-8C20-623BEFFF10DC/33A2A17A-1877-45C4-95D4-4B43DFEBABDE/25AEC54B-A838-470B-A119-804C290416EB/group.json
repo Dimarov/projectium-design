@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "25AEC54B-A838-470B-A119-804C290416EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D569A7E5-BBF6-4FCE-83E6-036B4D26A3B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F98819D-5D79-49C1-8DC1-59604013B9D6",
+    "height": 1935,
+    "width": 1636,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7BB9783F-BC52-41B0-839F-5F5E9C076DE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0B154A6-7FA5-4934-B9EC-92A7DF63F9FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E5DF29F-F2C7-4491-937A-B16CAE0FAE16"
+    },
+    {
+      "class": "group",
+      "id": "6D24831F-9C18-4B71-BA3F-D9CA0A402921"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF9512F1-AFF1-44FE-9785-4C652CFDC78C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "456B8051-3595-45FA-AF63-263478CB3C76"
+    },
+    {
+      "class": "group",
+      "id": "B0EB654E-8D5B-47A0-90B7-80E1F99EA38A"
+    },
+    {
+      "class": "group",
+      "id": "66DD11F3-F51A-4CAC-A134-A9154E080041"
+    }
+  ],
+  "name": "content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "623D8DAE-3312-479B-8C8E-045DFC3FC6B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "content",
+        "variableIDSketchID": "25AEC54B-A838-470B-A119-804C290416EB"
+      }
+    }
+  }
+}

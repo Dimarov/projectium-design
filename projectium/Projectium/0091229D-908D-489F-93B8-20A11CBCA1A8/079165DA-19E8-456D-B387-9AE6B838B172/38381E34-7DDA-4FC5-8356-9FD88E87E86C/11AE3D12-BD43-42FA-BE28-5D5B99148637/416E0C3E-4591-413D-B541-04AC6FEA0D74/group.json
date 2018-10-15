@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "416E0C3E-4591-413D-B541-04AC6FEA0D74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "175ED31C-7957-4FF9-BA5B-9F4AFB94F714",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3C7F5AAB-BFFA-46E4-9599-1F6580992DE6",
+    "height": 22,
+    "width": 13,
+    "x": 17.89047619047615,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AACD7305-040A-4CFC-ACBC-16F870614E3A"
+    }
+  ],
+  "name": "003-facebook-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F791E320-9526-4055-BEAB-AB4087DA69B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

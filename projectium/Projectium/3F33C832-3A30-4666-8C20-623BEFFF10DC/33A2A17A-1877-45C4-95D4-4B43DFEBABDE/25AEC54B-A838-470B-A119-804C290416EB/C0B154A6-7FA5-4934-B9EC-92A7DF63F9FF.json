@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0B154A6-7FA5-4934-B9EC-92A7DF63F9FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "623B95F1-2193-4A48-B18C-8E285A609F21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E0D8855-E186-4418-9D12-FC7075BD2C94",
+    "height": 202,
+    "width": 66,
+    "x": 1570,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Editing",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62FE420B-D175-42A6-89EF-2CC3BF06B987",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8965649-1A2A-4E1F-871D-C28F786AB9E6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "editing",
+        "variableIDSketchID": "C74860B4-47B8-49FC-86FB-9A51ED91A230"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

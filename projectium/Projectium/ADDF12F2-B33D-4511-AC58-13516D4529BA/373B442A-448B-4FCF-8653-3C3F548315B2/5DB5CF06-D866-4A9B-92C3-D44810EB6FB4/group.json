@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DB5CF06-D866-4A9B-92C3-D44810EB6FB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 730,
+    "width": 445,
+    "x": 830,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DABD1323-0613-4630-A776-4B7D285DD10B"
+    },
+    {
+      "class": "text",
+      "id": "3B7B8450-1315-4244-98E2-A7CE75A00CFA"
+    },
+    {
+      "class": "group",
+      "id": "62F64555-A6C2-4465-AEEC-B9C9D682FD5D"
+    }
+  ],
+  "name": "projectium-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "projectiumsignup",
+        "variableIDSketchID": "5DB5CF06-D866-4A9B-92C3-D44810EB6FB4"
+      }
+    }
+  }
+}

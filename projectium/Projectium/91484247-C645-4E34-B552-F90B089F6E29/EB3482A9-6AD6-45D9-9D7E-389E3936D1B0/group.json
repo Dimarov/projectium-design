@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB3482A9-6AD6-45D9-9D7E-389E3936D1B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B37EAC00-D37E-4AB4-AF03-D7B163D66583",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD6399BA-912E-4A81-B494-97C129E41DDF",
+    "height": 36,
+    "width": 130,
+    "x": 15,
+    "y": 278
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "20017991-860B-4148-A3EC-15DCF6D82FCB"
+    },
+    {
+      "class": "text",
+      "id": "46FD0DFE-268C-4447-A9BA-58E89F776B5F"
+    }
+  ],
+  "name": "guide-button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8EF1BA47-9D57-4460-A81E-C4DCA379054E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.368421052631579,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A9859680-4890-4709-BC04-7509320E8DC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

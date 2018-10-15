@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "208CC6F8-037B-4DBF-9004-589B17FA28C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "861D8107-B851-4017-BFFF-3F06D791A576",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D8A14E5D-85EE-45D9-B010-83F9BB591C3F",
+    "height": 39,
+    "width": 32,
+    "x": 20,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4B26D642-3E16-41DF-9A6A-0FF880C0F2D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F300209C-3EBC-4AAD-9248-79BBE86E1857"
+    }
+  ],
+  "name": "rubiks-cube",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "46831601-32E8-4E83-8489-338229D9EFF9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.032,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EBA75065-877A-4FAF-A3D2-5D1740E3F2A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

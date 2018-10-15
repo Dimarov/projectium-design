@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A1D1F35-E7FB-4A9A-BF36-104836E9D90D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4FF52C2-8189-414A-85FB-55E13DE7BBDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50A8A093-B2CA-4BDD-8D46-B286B12C77D8",
+    "height": 140,
+    "width": 260,
+    "x": 80,
+    "y": 124
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DragDropItem",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54393F8A-2310-4093-85F8-7F37AD919930",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B47F8CF-2D82-4B2B-B6DA-3A95F021C51B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "dragDropItem",
+        "variableIDSketchID": "F7ECFDE1-52BF-4120-BC77-9A2CCB777F15"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

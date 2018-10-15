@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F30D19FC-32F2-4AB7-808E-56C28034C2EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3394642-E2D0-491C-8105-603D9AE82667",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8741C495-FE6A-4EE2-A4CD-B9F2601EA882",
+    "height": 12,
+    "width": 16,
+    "x": 21.04761904761902,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B5E3A24-DBBB-4934-B440-D79852A5442E"
+    },
+    {
+      "class": "shapePath",
+      "id": "67AD8CB8-7166-44AC-9DB7-69060D74F112"
+    }
+  ],
+  "name": "001-envelope",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDDEB738-E7C0-4812-BBB6-648800B5F5C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

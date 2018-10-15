@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2990C49-106D-487E-B19B-735FADDEF630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10EA216E-CB00-4BAE-AB7C-AC8D5AC126A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9945BAD-624B-495F-A707-E201EE12EF35",
+    "height": 48,
+    "width": 190,
+    "x": 42.09523809523807,
+    "y": 333
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "937C8E24-9473-417E-B457-07E84937FA9B"
+    },
+    {
+      "class": "text",
+      "id": "BF255919-79BF-4B45-956F-B68E8CDB3F73"
+    }
+  ],
+  "name": "signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B756124-2DB4-49FB-B005-8B28C87C0D72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

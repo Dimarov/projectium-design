@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11AE3D12-BD43-42FA-BE28-5D5B99148637",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1995F443-0C05-4F87-8EA0-18AC5A54D747",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B492159-C3AF-4EB9-BDF8-C2368C3002DA",
+    "height": 48,
+    "width": 169,
+    "x": 231.5238095238094,
+    "y": 158
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0D5443FC-37A0-4CA0-BE3F-BBAA46411481"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E999964-517E-494E-A88F-C8EB01D1D653"
+    },
+    {
+      "class": "group",
+      "id": "416E0C3E-4591-413D-B541-04AC6FEA0D74"
+    },
+    {
+      "class": "text",
+      "id": "706FD43B-4119-4BAE-A521-47AF82A2BA1F"
+    }
+  ],
+  "name": "facebook-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B5FF29D-B078-43F0-8D64-94E06055759B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

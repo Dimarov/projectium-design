@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15BD5DDD-C4D1-4675-9862-0DA62C87B3D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F35E1250-2FA4-4807-90A8-434691462EED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "253FFE83-C441-4564-9D3E-596F0712A3EC",
+    "height": 48,
+    "width": 369,
+    "x": 42.09523809523807,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "742AC753-CD4A-4D09-B77D-B5006136629F"
+    },
+    {
+      "class": "group",
+      "id": "46D10342-6B3E-47CE-97A3-73BF153445B2"
+    },
+    {
+      "class": "text",
+      "id": "2F405740-7B18-4822-AB46-AB16A6373B37"
+    }
+  ],
+  "name": "password-field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4C0330E-67F3-4E40-9C30-568AE37B411F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

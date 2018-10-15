@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "079165DA-19E8-456D-B387-9AE6B838B172",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6DDD483-BBE4-4301-8109-525C4F52AE0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B207F6F-F54F-4023-97D5-A22F0B95BC8D",
+    "height": 730,
+    "width": 442,
+    "x": 163,
+    "y": 410
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "38381E34-7DDA-4FC5-8356-9FD88E87E86C"
+    },
+    {
+      "class": "text",
+      "id": "5904A848-E80B-4112-831E-A2F1170C73B1"
+    },
+    {
+      "class": "group",
+      "id": "88E7D74F-7149-44C0-A188-A0531CBD283C"
+    }
+  ],
+  "name": "projectium-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E9A3983-B844-4590-9EF4-132BDF760A66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

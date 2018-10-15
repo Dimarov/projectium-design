@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F0D706C-81ED-4B44-80A0-49C993DF3A5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 170,
+    "x": 42.38095238095239,
+    "y": 158
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A18E1938-7A2F-4DEB-B2DB-6A69C312C3BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "BA36B232-C462-4D1F-AA66-1334FEDE6783"
+    },
+    {
+      "class": "group",
+      "id": "CD794DAD-422B-4E34-86E4-FBA4977EF1EA"
+    },
+    {
+      "class": "text",
+      "id": "4A4C0733-B91C-4C88-8774-D353D2A2782A"
+    }
+  ],
+  "name": "linkedin-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "linkedinsignup",
+        "variableIDSketchID": "2F0D706C-81ED-4B44-80A0-49C993DF3A5D"
+      }
+    }
+  }
+}

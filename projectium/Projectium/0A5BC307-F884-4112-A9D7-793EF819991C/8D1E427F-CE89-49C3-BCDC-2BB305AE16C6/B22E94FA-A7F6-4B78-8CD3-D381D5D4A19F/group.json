@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B22E94FA-A7F6-4B78-8CD3-D381D5D4A19F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEEEE238-43C7-40F6-A4D2-284E4E94E043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F43C331A-AC87-4081-A186-49A95DD1E5A8",
+    "height": 1935,
+    "width": 1386,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ECF172B2-8820-4C0B-9BDA-00BF94AF880A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "807A5F70-3360-460A-AF3B-A89064406FBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B74EB3F-C14D-4347-9DB2-FEA29E2C8CE2"
+    },
+    {
+      "class": "group",
+      "id": "D962803B-8115-420F-9850-C118E5803445"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BBC7B48-2F46-4A94-8395-F65DC8E61F8D"
+    },
+    {
+      "class": "group",
+      "id": "4418D293-0035-403C-BF25-1D0264281D6E"
+    },
+    {
+      "class": "group",
+      "id": "8BAB0372-8223-4CBB-92C9-3150D5188B50"
+    }
+  ],
+  "name": "content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43CB0CB0-DA5A-46DA-86AF-DFB08DDEC1C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "content",
+        "variableIDSketchID": "B22E94FA-A7F6-4B78-8CD3-D381D5D4A19F"
+      }
+    }
+  }
+}

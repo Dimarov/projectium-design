@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF4C9C30-1908-441B-9722-159773FD1639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BBCE183-8B79-43F1-BFBC-161BAC1FB462",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DD4A76E7-BA68-42BF-AF22-6408CA9D0BED",
+    "height": 95,
+    "width": 80,
+    "x": 279,
+    "y": 1226
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "16493609-56B9-4D44-8F28-796DFD6CA55C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C5A2ECE-0C8D-47C0-879F-E0F6DF7601F5"
+    }
+  ],
+  "name": "rubiks-cube",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F815705D-9373-420F-89B6-33C4660D70B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

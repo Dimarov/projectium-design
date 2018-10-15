@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1C82F72-C2F4-4E3E-81C2-283B2AC26DFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 170,
+    "x": 233.0952380952378,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0800957B-7D47-4A49-92B2-ADCA46C71974"
+    },
+    {
+      "class": "rectangle",
+      "id": "C44AA590-F4E8-4939-AB4A-9BD1E37F9ABD"
+    },
+    {
+      "class": "group",
+      "id": "FD37297B-FA0A-4D25-8E18-96D31264B264"
+    },
+    {
+      "class": "text",
+      "id": "F6CDC212-A755-4D99-A46D-894654D293F0"
+    }
+  ],
+  "name": "google-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "googlesignup",
+        "variableIDSketchID": "A1C82F72-C2F4-4E3E-81C2-283B2AC26DFA"
+      }
+    }
+  }
+}

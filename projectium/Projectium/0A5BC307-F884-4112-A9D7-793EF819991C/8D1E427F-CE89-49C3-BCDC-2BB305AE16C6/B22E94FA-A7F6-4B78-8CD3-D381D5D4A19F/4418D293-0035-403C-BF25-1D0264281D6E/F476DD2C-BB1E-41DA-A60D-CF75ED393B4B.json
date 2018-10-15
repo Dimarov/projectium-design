@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F476DD2C-BB1E-41DA-A60D-CF75ED393B4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8442A924-EC9E-4178-826D-8B3FD7AD6461",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0626067-3262-41F9-B4AA-CDAA6CDBFBB4",
+    "height": 32,
+    "width": 106,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Follow_btn",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03762CBC-5238-44A7-8FE8-076661F812C2",
+      "overrideName": "21B755BF-1881-4457-B748-D5FFEA1FFFA4_stringValue",
+      "value": " Follow"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AC8B133B-97F0-4602-A53C-A6FC1089F528",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "912922BD-C0E9-42CF-8E9E-BA79215A30B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0253A56E-F6D2-48B5-8461-D00EA6C266A9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "followbtn",
+        "variableIDSketchID": "C93C9302-5B88-4DDF-BC54-95E2DA8685E7"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

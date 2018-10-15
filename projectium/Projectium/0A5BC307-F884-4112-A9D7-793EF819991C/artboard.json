@@ -1,0 +1,1942 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1137254901960784,
+    "do_objectID": "F18C32E8-6138-469F-9AEB-DEF226178C52",
+    "green": 0.09803921568627452,
+    "red": 0.09019607843137255
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A5BC307-F884-4112-A9D7-793EF819991C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34CBE86B-0432-4C0A-878A-CDF62D8EB397",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D20B539E-B508-41D4-A05A-86B82D7CDD90",
+    "height": 2138,
+    "width": 1440,
+    "x": 7435,
+    "y": 1370
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F18EE37C-D359-48BE-9DDA-73523576F324",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AF8F6363-3E14-42B3-8A31-25017154227E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D1E427F-CE89-49C3-BCDC-2BB305AE16C6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "FC0EB805-C522-44B7-93C4-80A1D4050D3E",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 165,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1110
+  },
+  "name": "Projectium Profile Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6703E4DC-0029-460B-BDCD-B30161E90E38",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.40000000000000002, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4117647058823529,
+                "green": 0.01568627450980392,
+                "red": 0.1568627450980392
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6274509803921569,
+                "green": 0.1686274509803922,
+                "red": 0.9803921568627451
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.59999999999999998, 0}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_8a76840b-4bef-450b-a373-485a82971340",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_63882928-b6fb-46d0-8ad4-59beeb4a9c6e",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Initial -> State1)",
+            "targetStateName": "state1",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0,
+                    "modelID": "animation_a00b06e9-8c3d-4aa3-8bb9-f76dc1d93e44",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_5b5eb80b-a1e1-4177-893b-4045ff4152e7",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;cards;cardPlaceholder"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0,
+                    "modelID": "animation_7df3a9df-0d4c-4e02-9de7-f2b69f439669",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_ad82b823-9dce-4f4a-b2c9-ae05339382a2",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;contacts"
+              }
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_31cf8b34-ac0c-4086-ad1a-6192476c55d1",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "target": "this;homepage;content;dragndrop;dragDropItem",
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_8689708e-5c19-4834-934f-dcd07d5cee03",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (State2 -> State3)",
+            "originStateName": "state2",
+            "targetStateName": "state3",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_8ac9f602-691b-4546-b8af-d3050065d6e4",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_6dd9f31a-b38f-4928-95f3-88d917315d97",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.498708
+                        },
+                        "left": {
+                          "constant": 420,
+                          "enabled": 1,
+                          "modelID": "constraint_8ce4a965-6242-4bf4-b1fa-7962a524645b",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "modelID": "viewConstraints_94fd08c8-7990-4d6f-8720-fadbd59da958",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7d3ccf4b-7a6e-46b9-b9d6-5ab3cf6258fa",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_6630bd62-84ad-4378-873c-184f4b2a06be",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.2567237
+                        }
+                      },
+                      "x": 420
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_40fd4ae5-8514-4630-ad2d-08cb4685681b",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;dragndrop"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_ef7efd9f-ddfb-4216-b219-84662fa7acca",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_cf95ba33-6aa6-4d23-8118-180f72df7681",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;cards;cardPlaceholder"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_17ad2f5e-8d16-4ad4-877f-935da3b164cc",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "centerHorizontally": {
+                          "constant": 479,
+                          "enabled": 1,
+                          "modelID": "constraint_cc54717c-8df5-47b8-99a3-590ef0a5d0d2",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_f13159e7-4472-4f7b-bb14-84c09ee8354b",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.2072539
+                        },
+                        "modelID": "viewConstraints_d0e8d6a4-7000-491a-bb43-61584d8aa6d0",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_019af107-f136-4cd2-adfb-f6732ee7c178",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1.71399
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_72906bdb-1410-402d-b298-8c513fbb0a63",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.8333333
+                        }
+                      },
+                      "height": 200,
+                      "width": 350,
+                      "x": 514,
+                      "y": 1654
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_a1da4dfd-f555-44ee-8f75-68aa98125d80",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;dragndrop;dragDropItem"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_e28fd3b9-8336-4afb-993f-ba5bdcfba510",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_ad88dbf1-88d3-420c-9801-91659868f34b",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1116279
+                        },
+                        "modelID": "viewConstraints_846047ae-1b26-4f57-8e67-0ff0cbee17a9",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0af4c90f-9d37-4427-a996-64a6ad47e2fe",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1228606
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_3410c36f-0c04-441e-be6e-a6a4740dd2fd",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.02067184
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_59306845-1376-431a-a6bc-505b6878ba34",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.3056235
+                        }
+                      },
+                      "x": 935
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_f7dd76aa-6b7e-4aff-9045-90640ec60e9b",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;profileInfo"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_a50ebd02-aa43-4718-a682-d2d3effe3b7e",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "bottom": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0235d885-6f38-4c3d-bf71-8e8d70d4814e",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.04134367
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_3807e593-f767-46d4-a8bd-1d3872e7407c",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.8165374
+                        },
+                        "modelID": "viewConstraints_3af7db63-93dd-43c0-a0e8-df35a59b99f5",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0d4ee83f-5257-4311-a8a7-2d45ad686213",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.01772616
+                        },
+                        "scaleFactor": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_fa3aab2c-d7b4-42fe-93d9-de0611efade9",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.4462103
+                        }
+                      },
+                      "x": 935
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_bfde9278-a7da-4b1e-a478-180af4b509fe",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;cards"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_110a365c-1207-4e5d-b786-0db35c3e7151",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "aspectRatio": {
+                          "constant": 200,
+                          "enabled": 1,
+                          "modelID": "constraint_e8e91301-8e36-4cfa-bb6c-6954983d1d93",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 350
+                        },
+                        "automatic": 1,
+                        "modelID": "viewConstraints_225e554a-a2b3-4cf2-b0c3-941fd878bfca",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1
+                      },
+                      "height": 200,
+                      "width": 350,
+                      "y": -60
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_02751f8a-4672-4116-ab36-0c9a9132f9b6",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;dragndrop;dragDropItem;bitmap6"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_98cab041-b8af-4587-a03e-f79f274bc7ff",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "centerVertically": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_693a4c0c-a1ff-4524-8a91-002f7dd4cbc3",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_ae8230a6-95de-4328-8539-0742a32ab782",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1
+                        },
+                        "modelID": "viewConstraints_9bbe0575-b133-4de7-b8ce-b9831c64dee0",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_e3eb62e0-0c15-4bfe-b527-12308a0fe477",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.05745721
+                        },
+                        "scaleFactor": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_fb882a23-daf0-42c5-8de1-7c79d620dc3a",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.5256724
+                        }
+                      },
+                      "x": 870
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_342f288b-3baa-4776-84b9-ece546dab204",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;profilebg"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_3d923847-e7de-4982-b0b3-76abc312fff4",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0,
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7bd8b81e-24dc-4715-9ecc-fc7053d6442a",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.2640827
+                        },
+                        "left": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_8e47ecdf-bc15-4897-b332-fd0943d0ebe4",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.3545232
+                        },
+                        "modelID": "viewConstraints_9899e16d-e1ef-4062-94ae-1b4726946811",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7d49a3fc-7eab-49d9-b40f-4a35a1c2b5d0",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0c45bc8f-8d05-4257-90a3-bab8c5ddab06",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.07334963
+                        }
+                      },
+                      "x": 580
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_b291fea0-83c1-47ae-9ba5-96aafb4a4742",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;contacts"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_85014e05-a976-4c85-9088-112e632e7b9d",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7894287a-7632-4d6a-80de-91b9b4a9f039",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.04134367
+                        },
+                        "modelID": "viewConstraints_f119ea86-c0fb-4fd6-8dad-e0e4847b81b5",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_d1431627-d38c-4f7f-afb7-22057ad1c344",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.007334963
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_f4dda05b-c304-47f6-99ee-a7e1343a68c0",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_cc938791-5126-4c6c-9f2a-922104ec1123",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.06479218
+                        }
+                      },
+                      "x": 1542
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_b17aa666-d28f-4ddd-ae58-7abb12539196",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;actions1"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_c21c515c-a7eb-439a-b7b5-b21db241e7f5",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7117d8ab-b34a-4e7c-96cb-e0665523c300",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1043928
+                        },
+                        "modelID": "viewConstraints_d5cae49e-d5e0-4e13-b407-0671920582e1",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": -160,
+                          "enabled": 1,
+                          "modelID": "constraint_107a72fd-f3a3-4e1c-9605-0e683668f084",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_d2f78448-3363-49e4-bcad-9adca33a5235",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_1e411412-0cac-449e-b8a1-6c10e05145dd",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.0403423
+                        }
+                      },
+                      "x": 1730
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_50eb182e-b4c8-48b1-885f-7581cd558906",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;editing"
+              }
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_e48236c2-e8c9-4fae-97d2-1eca6a4e8d36",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "target": "this;homepage;content;editing",
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_3728939a-b113-46b7-aecd-bcac8b574ee2",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (State1 -> State2)",
+            "originStateName": "state1",
+            "targetStateName": "state2",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_1f2cd0ac-fa0a-42ba-b63e-c128bc974af4",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7894287a-7632-4d6a-80de-91b9b4a9f039",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.04134367
+                        },
+                        "modelID": "viewConstraints_f119ea86-c0fb-4fd6-8dad-e0e4847b81b5",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_d1431627-d38c-4f7f-afb7-22057ad1c344",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.007334963
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_f4dda05b-c304-47f6-99ee-a7e1343a68c0",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_cc938791-5126-4c6c-9f2a-922104ec1123",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.06479218
+                        }
+                      },
+                      "x": 1542
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_54badbc6-b2ea-4835-aa9d-906ad1ce2741",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;actions1"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_8ac921ea-704b-411e-88fa-a585b81c6554",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_ad88dbf1-88d3-420c-9801-91659868f34b",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1116279
+                        },
+                        "modelID": "viewConstraints_846047ae-1b26-4f57-8e67-0ff0cbee17a9",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0af4c90f-9d37-4427-a996-64a6ad47e2fe",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1228606
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_3410c36f-0c04-441e-be6e-a6a4740dd2fd",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.02067184
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_59306845-1376-431a-a6bc-505b6878ba34",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.3056235
+                        }
+                      },
+                      "x": 935
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_3a7f161b-3665-42ac-95ad-bdbadc4422e0",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;profileInfo"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_c28b936b-e75f-4b74-8606-8c4218885f41",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "bottom": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0235d885-6f38-4c3d-bf71-8e8d70d4814e",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.04134367
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_3807e593-f767-46d4-a8bd-1d3872e7407c",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.8165374
+                        },
+                        "modelID": "viewConstraints_3af7db63-93dd-43c0-a0e8-df35a59b99f5",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0d4ee83f-5257-4311-a8a7-2d45ad686213",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.01772616
+                        },
+                        "scaleFactor": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_fa3aab2c-d7b4-42fe-93d9-de0611efade9",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.4462103
+                        }
+                      },
+                      "x": 935
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_0b6e8dc8-afbe-45da-8e5b-e503221e5964",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;cards"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_ed20be2a-4c4a-4f07-9d19-5abf977c71f7",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "centerVertically": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_693a4c0c-a1ff-4524-8a91-002f7dd4cbc3",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_ae8230a6-95de-4328-8539-0742a32ab782",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1
+                        },
+                        "modelID": "viewConstraints_9bbe0575-b133-4de7-b8ce-b9831c64dee0",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_e3eb62e0-0c15-4bfe-b527-12308a0fe477",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.05745721
+                        },
+                        "scaleFactor": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_fb882a23-daf0-42c5-8de1-7c79d620dc3a",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.5256724
+                        }
+                      },
+                      "x": 870
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_27986195-1ddf-4534-af03-c36b6670b41f",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;profilebg"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_065608b3-aca9-4fb7-bdf9-d4866112ce7e",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0,
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7bd8b81e-24dc-4715-9ecc-fc7053d6442a",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.2640827
+                        },
+                        "left": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_8e47ecdf-bc15-4897-b332-fd0943d0ebe4",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.3545232
+                        },
+                        "modelID": "viewConstraints_9899e16d-e1ef-4062-94ae-1b4726946811",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7d49a3fc-7eab-49d9-b40f-4a35a1c2b5d0",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_0c45bc8f-8d05-4257-90a3-bab8c5ddab06",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.07334963
+                        }
+                      },
+                      "x": 580
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_909ea937-d93b-4515-afed-20ce57c2415b",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;contacts"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_27dec40f-3cbe-48bc-9a14-446485e51a03",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_6dd9f31a-b38f-4928-95f3-88d917315d97",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.498708
+                        },
+                        "left": {
+                          "constant": 420,
+                          "enabled": 1,
+                          "modelID": "constraint_8ce4a965-6242-4bf4-b1fa-7962a524645b",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "modelID": "viewConstraints_94fd08c8-7990-4d6f-8720-fadbd59da958",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7d3ccf4b-7a6e-46b9-b9d6-5ab3cf6258fa",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_6630bd62-84ad-4378-873c-184f4b2a06be",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.2567237
+                        }
+                      },
+                      "x": 420
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_9de672bb-f80f-4349-be20-e6bed03a322f",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;dragndrop"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_4b9c2c96-c2bb-46a6-9b5a-d3ace02b34e0",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_7117d8ab-b34a-4e7c-96cb-e0665523c300",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.1043928
+                        },
+                        "modelID": "viewConstraints_d5cae49e-d5e0-4e13-b407-0671920582e1",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "right": {
+                          "constant": -160,
+                          "enabled": 1,
+                          "modelID": "constraint_107a72fd-f3a3-4e1c-9605-0e683668f084",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "scaleFactor": 1,
+                        "top": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_d2f78448-3363-49e4-bcad-9adca33a5235",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.03100775
+                        },
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_1e411412-0cac-449e-b8a1-6c10e05145dd",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0.0403423
+                        }
+                      },
+                      "x": 1730
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_3e3eb55b-d7e8-4809-9135-f9dd624184fb",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;editing"
+              },
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 1,
+                    "modelID": "animation_1e0b01f9-4827-4cb4-9a18-c2d35c29c127",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 1
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_b0188990-8c29-42e4-b1e3-93ea479b5fab",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;homepage;content;cards;cardPlaceholder"
+              }
+            ],
+            "trigger": 0
+          }
+        ],
+        "defaultStateName": "state1",
+        "nestedSymbolsCacheKey": "GxPIV33+6brQMHHR+vptEzg19ZEs6u0FapsBTCJ+fxE=",
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state1",
+            "overrides": {
+              "this;homepage;content;cards;cardPlaceholder": {
+                "alpha": 0
+              },
+              "this;homepage;content;contacts": {
+                "alpha": 0
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state2",
+            "overrides": {
+              "this;homepage;content;actions1": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7894287a-7632-4d6a-80de-91b9b4a9f039",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.04134367
+                  },
+                  "modelID": "viewConstraints_f119ea86-c0fb-4fd6-8dad-e0e4847b81b5",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_d1431627-d38c-4f7f-afb7-22057ad1c344",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.007334963
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_f4dda05b-c304-47f6-99ee-a7e1343a68c0",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_cc938791-5126-4c6c-9f2a-922104ec1123",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.06479218
+                  }
+                },
+                "x": 1542
+              },
+              "this;homepage;content;cards": {
+                "constraints": {
+                  "automatic": 1,
+                  "bottom": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0235d885-6f38-4c3d-bf71-8e8d70d4814e",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.04134367
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_3807e593-f767-46d4-a8bd-1d3872e7407c",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.8165374
+                  },
+                  "modelID": "viewConstraints_3af7db63-93dd-43c0-a0e8-df35a59b99f5",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0d4ee83f-5257-4311-a8a7-2d45ad686213",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.01772616
+                  },
+                  "scaleFactor": 1,
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_fa3aab2c-d7b4-42fe-93d9-de0611efade9",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.4462103
+                  }
+                },
+                "x": 935
+              },
+              "this;homepage;content;contacts": {
+                "alpha": 0,
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7bd8b81e-24dc-4715-9ecc-fc7053d6442a",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.2640827
+                  },
+                  "left": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_8e47ecdf-bc15-4897-b332-fd0943d0ebe4",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.3545232
+                  },
+                  "modelID": "viewConstraints_9899e16d-e1ef-4062-94ae-1b4726946811",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7d49a3fc-7eab-49d9-b40f-4a35a1c2b5d0",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0c45bc8f-8d05-4257-90a3-bab8c5ddab06",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.07334963
+                  }
+                },
+                "x": 580
+              },
+              "this;homepage;content;dragndrop": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_6dd9f31a-b38f-4928-95f3-88d917315d97",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.498708
+                  },
+                  "left": {
+                    "constant": 420,
+                    "enabled": 1,
+                    "modelID": "constraint_8ce4a965-6242-4bf4-b1fa-7962a524645b",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "modelID": "viewConstraints_94fd08c8-7990-4d6f-8720-fadbd59da958",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7d3ccf4b-7a6e-46b9-b9d6-5ab3cf6258fa",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_6630bd62-84ad-4378-873c-184f4b2a06be",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.2567237
+                  }
+                },
+                "x": 420
+              },
+              "this;homepage;content;editing": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7117d8ab-b34a-4e7c-96cb-e0665523c300",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1043928
+                  },
+                  "modelID": "viewConstraints_d5cae49e-d5e0-4e13-b407-0671920582e1",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": -160,
+                    "enabled": 1,
+                    "modelID": "constraint_107a72fd-f3a3-4e1c-9605-0e683668f084",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_d2f78448-3363-49e4-bcad-9adca33a5235",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_1e411412-0cac-449e-b8a1-6c10e05145dd",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.0403423
+                  }
+                },
+                "x": 1730
+              },
+              "this;homepage;content;profileInfo": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_ad88dbf1-88d3-420c-9801-91659868f34b",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1116279
+                  },
+                  "modelID": "viewConstraints_846047ae-1b26-4f57-8e67-0ff0cbee17a9",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0af4c90f-9d37-4427-a996-64a6ad47e2fe",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1228606
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_3410c36f-0c04-441e-be6e-a6a4740dd2fd",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.02067184
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_59306845-1376-431a-a6bc-505b6878ba34",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.3056235
+                  }
+                },
+                "x": 935
+              },
+              "this;homepage;content;profilebg": {
+                "constraints": {
+                  "automatic": 1,
+                  "centerVertically": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_693a4c0c-a1ff-4524-8a91-002f7dd4cbc3",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_ae8230a6-95de-4328-8539-0742a32ab782",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 1
+                  },
+                  "modelID": "viewConstraints_9bbe0575-b133-4de7-b8ce-b9831c64dee0",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_e3eb62e0-0c15-4bfe-b527-12308a0fe477",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.05745721
+                  },
+                  "scaleFactor": 1,
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_fb882a23-daf0-42c5-8de1-7c79d620dc3a",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.5256724
+                  }
+                },
+                "x": 870
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state3",
+            "overrides": {
+              "this;homepage;content;actions1": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7894287a-7632-4d6a-80de-91b9b4a9f039",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.04134367
+                  },
+                  "modelID": "viewConstraints_f119ea86-c0fb-4fd6-8dad-e0e4847b81b5",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_d1431627-d38c-4f7f-afb7-22057ad1c344",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.007334963
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_f4dda05b-c304-47f6-99ee-a7e1343a68c0",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_cc938791-5126-4c6c-9f2a-922104ec1123",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.06479218
+                  }
+                },
+                "x": 1542
+              },
+              "this;homepage;content;cards": {
+                "constraints": {
+                  "automatic": 1,
+                  "bottom": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0235d885-6f38-4c3d-bf71-8e8d70d4814e",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.04134367
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_3807e593-f767-46d4-a8bd-1d3872e7407c",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.8165374
+                  },
+                  "modelID": "viewConstraints_3af7db63-93dd-43c0-a0e8-df35a59b99f5",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0d4ee83f-5257-4311-a8a7-2d45ad686213",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.01772616
+                  },
+                  "scaleFactor": 1,
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_fa3aab2c-d7b4-42fe-93d9-de0611efade9",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.4462103
+                  }
+                },
+                "x": 935
+              },
+              "this;homepage;content;cards;cardPlaceholder": {
+                "alpha": 0
+              },
+              "this;homepage;content;contacts": {
+                "alpha": 0,
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7bd8b81e-24dc-4715-9ecc-fc7053d6442a",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.2640827
+                  },
+                  "left": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_8e47ecdf-bc15-4897-b332-fd0943d0ebe4",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.3545232
+                  },
+                  "modelID": "viewConstraints_9899e16d-e1ef-4062-94ae-1b4726946811",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7d49a3fc-7eab-49d9-b40f-4a35a1c2b5d0",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0c45bc8f-8d05-4257-90a3-bab8c5ddab06",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.07334963
+                  }
+                },
+                "x": 580
+              },
+              "this;homepage;content;dragndrop": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_6dd9f31a-b38f-4928-95f3-88d917315d97",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.498708
+                  },
+                  "left": {
+                    "constant": 420,
+                    "enabled": 1,
+                    "modelID": "constraint_8ce4a965-6242-4bf4-b1fa-7962a524645b",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "modelID": "viewConstraints_94fd08c8-7990-4d6f-8720-fadbd59da958",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7d3ccf4b-7a6e-46b9-b9d6-5ab3cf6258fa",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_6630bd62-84ad-4378-873c-184f4b2a06be",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.2567237
+                  }
+                },
+                "x": 420
+              },
+              "this;homepage;content;dragndrop;dragDropItem": {
+                "constraints": {
+                  "automatic": 1,
+                  "centerHorizontally": {
+                    "constant": 479,
+                    "enabled": 1,
+                    "modelID": "constraint_cc54717c-8df5-47b8-99a3-590ef0a5d0d2",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_f13159e7-4472-4f7b-bb14-84c09ee8354b",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.2072539
+                  },
+                  "modelID": "viewConstraints_d0e8d6a4-7000-491a-bb43-61584d8aa6d0",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_019af107-f136-4cd2-adfb-f6732ee7c178",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 1.71399
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_72906bdb-1410-402d-b298-8c513fbb0a63",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.8333333
+                  }
+                },
+                "height": 200,
+                "width": 350,
+                "x": 514,
+                "y": 1654
+              },
+              "this;homepage;content;dragndrop;dragDropItem;bitmap6": {
+                "constraints": {
+                  "aspectRatio": {
+                    "constant": 200,
+                    "enabled": 1,
+                    "modelID": "constraint_e8e91301-8e36-4cfa-bb6c-6954983d1d93",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 350
+                  },
+                  "automatic": 1,
+                  "modelID": "viewConstraints_225e554a-a2b3-4cf2-b0c3-941fd878bfca",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1
+                },
+                "height": 200,
+                "width": 350,
+                "y": -60
+              },
+              "this;homepage;content;editing": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_7117d8ab-b34a-4e7c-96cb-e0665523c300",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1043928
+                  },
+                  "modelID": "viewConstraints_d5cae49e-d5e0-4e13-b407-0671920582e1",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": -160,
+                    "enabled": 1,
+                    "modelID": "constraint_107a72fd-f3a3-4e1c-9605-0e683668f084",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_d2f78448-3363-49e4-bcad-9adca33a5235",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.03100775
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_1e411412-0cac-449e-b8a1-6c10e05145dd",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.0403423
+                  }
+                },
+                "x": 1730
+              },
+              "this;homepage;content;profileInfo": {
+                "constraints": {
+                  "automatic": 1,
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_ad88dbf1-88d3-420c-9801-91659868f34b",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1116279
+                  },
+                  "modelID": "viewConstraints_846047ae-1b26-4f57-8e67-0ff0cbee17a9",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_0af4c90f-9d37-4427-a996-64a6ad47e2fe",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.1228606
+                  },
+                  "scaleFactor": 1,
+                  "top": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_3410c36f-0c04-441e-be6e-a6a4740dd2fd",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.02067184
+                  },
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_59306845-1376-431a-a6bc-505b6878ba34",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.3056235
+                  }
+                },
+                "x": 935
+              },
+              "this;homepage;content;profilebg": {
+                "constraints": {
+                  "automatic": 1,
+                  "centerVertically": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_693a4c0c-a1ff-4524-8a91-002f7dd4cbc3",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_ae8230a6-95de-4328-8539-0742a32ab782",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 1
+                  },
+                  "modelID": "viewConstraints_9bbe0575-b133-4de7-b8ce-b9831c64dee0",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "right": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_e3eb62e0-0c15-4bfe-b527-12308a0fe477",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.05745721
+                  },
+                  "scaleFactor": 1,
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_fb882a23-daf0-42c5-8de1-7c79d620dc3a",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0.5256724
+                  }
+                },
+                "x": 870
+              }
+            }
+          }
+        ],
+        "timelineType": "component",
+        "timelineUniqueAppID": "D3E7D44A-AD09-4CCE-9846-788A540C6B04-eBCilxRRmNTNtMfDSNhoRTQf8AQxbBfhB238d+p0YCk=",
+        "variableIDSketchID": "0A5BC307-F884-4112-A9D7-793EF819991C"
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E461BC1-7FEF-4179-B693-97CFF725F4F8",
+    "guides": [
+    ]
+  }
+}

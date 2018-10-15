@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "221896AE-52BC-46E1-80A8-9D2915E68A30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E28DE6A8-AA81-4932-956A-D7231784893D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44E034F5-02F9-49CC-9903-0EB9C8449790",
+    "height": 35,
+    "width": 250,
+    "x": 38.57142857142935,
+    "y": 123.6842791911285
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E0AF5087-626D-4A88-A63B-F2376E8139B0"
+    },
+    {
+      "class": "group",
+      "id": "3505E5DF-B200-410F-B30D-05C43DE442F7"
+    },
+    {
+      "class": "text",
+      "id": "C1968C07-9A8D-4F15-A510-4F6978F51DEC"
+    }
+  ],
+  "name": "username-field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1032E74C-3577-4DDF-9AE8-4509D2B7B2EE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.142857142857142,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DDEFE40B-100C-4D02-935D-4E528BE0BCBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D33278FA-75BF-4C1A-BA7B-860A5E0F6A11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CBBE0DC-86E9-4FC6-AB03-B8FE58F90CDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E319AE9-B38E-4B46-98C7-949841299384",
+    "height": 200,
+    "width": 350,
+    "x": 0,
+    "y": 1380
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CardPlaceholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51AB2C74-F8A8-4540-9B8B-D739BF4F4D5B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C362232-E942-4CE0-8493-1D828727C8AF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "cardPlaceholder",
+        "variableIDSketchID": "EA4DB474-A9E1-4998-8D10-A5FD578B75C0"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

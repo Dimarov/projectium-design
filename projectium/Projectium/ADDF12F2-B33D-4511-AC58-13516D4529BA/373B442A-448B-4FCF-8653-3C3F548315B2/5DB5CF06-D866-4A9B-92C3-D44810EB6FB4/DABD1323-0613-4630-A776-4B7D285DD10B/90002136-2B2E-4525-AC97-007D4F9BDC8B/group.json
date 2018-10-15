@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90002136-2B2E-4525-AC97-007D4F9BDC8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 170,
+    "x": 42.38095238095239,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F79FC5C-DBE6-47D3-9B1A-9714FE989973"
+    },
+    {
+      "class": "rectangle",
+      "id": "33636DDD-5435-49AB-94CA-7E58C4CB384F"
+    },
+    {
+      "class": "group",
+      "id": "57799DE4-5572-48EF-94D0-216B816B6150"
+    },
+    {
+      "class": "text",
+      "id": "9F4A6911-736A-43E2-8F58-844510782604"
+    }
+  ],
+  "name": "github-signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "githubsignup",
+        "variableIDSketchID": "90002136-2B2E-4525-AC97-007D4F9BDC8B"
+      }
+    }
+  }
+}

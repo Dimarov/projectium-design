@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E3DB6EA-B0EF-4CFA-9E05-7DD30D6678AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08485DB4-B5C5-41A5-A605-C532D40C1075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F24574B1-32AF-4F14-BDE0-F1A161563470",
+    "height": 18,
+    "width": 16,
+    "x": 21.04761904761902,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "858F7532-C302-410A-9041-43DAB1FA09A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0153C95-9ED4-4742-82C9-9574FB7A46BC"
+    }
+  ],
+  "name": "002-avatar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BA89F46-A96D-407A-8C82-47F7984D6151",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
