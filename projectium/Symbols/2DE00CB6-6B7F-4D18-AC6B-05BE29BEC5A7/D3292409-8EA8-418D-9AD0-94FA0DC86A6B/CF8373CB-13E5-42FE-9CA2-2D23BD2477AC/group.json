@@ -36,12 +36,12 @@
       "id": "06637A89-8E23-4E7A-946D-8552C2BF9F3C"
     },
     {
-      "class": "text",
-      "id": "D08D461A-71A9-4A54-81F9-F817596FCF53"
+      "class": "shapeGroup",
+      "id": "B1DCD27C-0618-4333-B69E-FB405C10DE40"
     },
     {
-      "class": "text",
-      "id": "6FDCA26A-D063-4521-8EE5-917469268B41"
+      "class": "shapeGroup",
+      "id": "369FAE98-BB47-43DA-B26E-B8A0A110834C"
     },
     {
       "class": "group",
@@ -71,5 +71,26 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 40,
+            "enabled": 1,
+            "modelID": "constraint_37c7cc46-de1f-43ba-9b2c-7d763c003857",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 353
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1432ed2d-d45f-46af-89e4-31dbf9be0927",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

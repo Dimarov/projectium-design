@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "312EE2B4-B81F-47FE-A9A9-490A3EBF15A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2CCCAB3-6977-4ACB-A271-70FDE583CD9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFBF2E2D-A10C-4CBA-8F38-D8793C5C045F",
+    "height": 48,
+    "width": 180,
+    "x": 165,
+    "y": 332
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "666154B4-5930-41E8-B3A3-BB05AAE4DAB1"
+    },
+    {
+      "class": "text",
+      "id": "E658D6DE-7B1D-4AC0-A5B3-BC18B5439E75"
+    }
+  ],
+  "name": "guide-button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBDE561A-99E8-49A1-ABFA-95F143F876C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "guidebutton",
+        "variableIDSketchID": "24AF1B71-8EFF-40AB-BAB1-8ADEA5051862"
+      }
+    }
+  }
+}

@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
+    "blue": 0.3357994002525253,
+    "green": 0.3357994002525253,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 129,
+  "changeIdentifier": 184,
   "clippingMaskMode": 0,
   "do_objectID": "B39CCADD-D3F8-4845-A046-B127E36555F7",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "x": 3242,
     "y": 277
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {

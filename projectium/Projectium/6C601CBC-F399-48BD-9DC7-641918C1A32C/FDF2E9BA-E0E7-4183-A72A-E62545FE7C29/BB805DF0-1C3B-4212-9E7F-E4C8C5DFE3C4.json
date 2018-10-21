@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB805DF0-1C3B-4212-9E7F-E4C8C5DFE3C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54CE35B5-EE35-4A26-A097-62D75F9595BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "967A5D6E-C9F9-4A07-93FC-C31B65E061AF",
+    "height": 384,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B00B158-70B3-4209-A7CC-D4AFF866E63D",
+      "overrideName": "5CBBDD8D-3B39-4DCF-884C-CC067DE8927B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6904522E-267B-4F2D-94BD-33BB710A56C4",
+      "overrideName": "9FBF25E9-496C-437F-BF6E-64C4A4EE5CC6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B78ED369-BF95-4AD2-B19A-53040E0DA6C2",
+      "overrideName": "2B32D740-8252-4DFB-9A96-7F65BC8ACAF7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF16FD6F-4EDB-40CE-82DB-B954B5CCF53C",
+      "overrideName": "7A3F8D82-C6C7-4DE5-AC30-7717925CFB33_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA1D3C13-CBAB-465E-A01C-ED4E18036972",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C1376AA-0415-46AD-B44F-B1672FFA221C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "header",
+        "variableIDSketchID": "EDF3814E-7636-4742-BD15-9B3ADC340A9C"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

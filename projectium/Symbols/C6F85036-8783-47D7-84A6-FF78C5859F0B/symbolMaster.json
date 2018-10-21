@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "828311BD-2BD7-4911-AE1C-CB2C6042FF2C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5570,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6F85036-8783-47D7-84A6-FF78C5859F0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A242D740-48C0-4087-B4EB-35D00FC2434D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14B39304-74A4-4382-9747-0E0E4D9C4461",
+    "height": 243,
+    "width": 280,
+    "x": 1399,
+    "y": 957
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDA7DCC9-AAD1-484D-BB19-BADF50719C62",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "15C6C8F3-1B19-4E4C-839E-A29AD821DB39"
+    }
+  ],
+  "name": "Tooltip/Notifications",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1743AF99-BAF5-41E4-B649-932C16904807",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "976E8ED8-E58F-49B8-88F4-FE1B5B70E20E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8BCD7B74-54A2-4A7F-8B71-8505D881EF35",
+    "guides": [
+    ]
+  }
+}

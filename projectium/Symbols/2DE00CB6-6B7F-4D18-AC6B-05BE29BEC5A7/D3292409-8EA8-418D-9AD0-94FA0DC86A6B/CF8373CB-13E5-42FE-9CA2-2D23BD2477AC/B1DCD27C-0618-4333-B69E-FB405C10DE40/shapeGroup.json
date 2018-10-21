@@ -1,0 +1,179 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1DCD27C-0618-4333-B69E-FB405C10DE40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25.7184,
+    "width": 154.4544,
+    "x": 50.4192,
+    "y": 9.975999999999999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EB6C6874-FC9A-4007-A4C6-5E1627B9ED0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B40B20C2-0994-42B0-99E9-1A3973FD8022"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD13FC00-DC83-4BEC-82C6-B21C1A3CC37D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9612B425-5A40-4CA6-ACB9-2C098097B281"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DA3CE4E-9C0E-4561-B608-1A1B979C0F59"
+    },
+    {
+      "class": "shapePath",
+      "id": "382162C2-2C36-4BBC-92A3-2F8865B5D52D"
+    },
+    {
+      "class": "shapePath",
+      "id": "53460926-9F9D-45A9-8C41-81AC873C0523"
+    },
+    {
+      "class": "shapePath",
+      "id": "51260F81-FCBA-44A9-9047-CEC7A1E90F3E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0FE3D9B2-9E18-4FF5-9F81-BCCC8285F2F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "1ECC1B48-DC02-4B21-9A53-0DF7FEF6F9AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "B13F71E1-486C-4CA7-9588-777E0C7F66DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D3B4480-BEFC-4EA5-98AE-89C3D13DABF9"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B09C796-43B7-4906-8745-460F3E4037E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "60D9A958-00C3-49AD-A101-19EFEB2E35E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3EA900F-5929-4A3D-85BB-2F4B5AA20092"
+    }
+  ],
+  "name": "Projectium",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Gotham-Bold",
+            "size": 28.8
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 25.7184,
+            "enabled": 1,
+            "modelID": "constraint_1d1a7288-e616-47f8-b680-1498cfb2d488",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 154.4544
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_16bf1492-d120-4457-8b3f-d625a7e6c417",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

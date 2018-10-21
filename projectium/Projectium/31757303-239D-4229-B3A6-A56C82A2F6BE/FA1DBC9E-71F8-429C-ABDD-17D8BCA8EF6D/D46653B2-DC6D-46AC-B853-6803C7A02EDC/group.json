@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D46653B2-DC6D-46AC-B853-6803C7A02EDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "511786FE-A491-4A8D-AE4B-5AC9EFAEEAEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B912B43-5E54-4C98-A9E9-5CE71DBB45B6",
+    "height": 48,
+    "width": 180,
+    "x": 365,
+    "y": 332
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3CE86568-7740-46D5-BF9D-E08AC6FB150A"
+    },
+    {
+      "class": "text",
+      "id": "1D467D95-E11E-4FA9-BC7F-A75537131EF3"
+    }
+  ],
+  "name": "browse-button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A02C2DDD-1252-477F-8A3F-EDD2C6E6A00D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "browsebutton",
+        "variableIDSketchID": "6751ECD6-E43B-4B66-8015-5E5F8A2E8F79"
+      }
+    }
+  }
+}

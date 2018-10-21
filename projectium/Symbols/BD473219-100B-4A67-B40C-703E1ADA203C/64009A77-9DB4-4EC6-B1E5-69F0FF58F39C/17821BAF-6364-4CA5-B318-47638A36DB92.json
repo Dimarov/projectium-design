@@ -16,29 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
-              "size": 28.8
+              "name": "Gotham-Book",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Network"
+    "string": "Chats"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6FDCA26A-D063-4521-8EE5-917469268B41",
+  "do_objectID": "17821BAF-6364-4CA5-B318-47638A36DB92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BB81F2F0-99D2-46F9-BA44-B3CCA5800464",
+    "do_objectID": "09462727-E56C-479A-9997-C85E860CFDD6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9D40ED69-1013-4BE9-820C-86466D48F86E",
-    "height": 33,
-    "width": 125,
-    "x": 219.2,
-    "y": 4
+    "do_objectID": "7E5A6DA8-6E38-4AA9-88D6-02B1DEE2A1D9",
+    "height": 14,
+    "width": 40,
+    "x": 20,
+    "y": 33
   },
-  "glyphBounds": "{{2, 5}, {123, 23}}",
+  "glyphBounds": "{{0, 0}, {39, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Network",
+  "name": "Chats",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,20 +76,20 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "D4464B5A-F8E2-4AE1-995B-3D52B17E4A1A",
+      "do_objectID": "E7273496-D726-4CEF-9BD8-1AFD8A63E389",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 4,
+      "radius": 14,
       "saturation": 1,
       "type": 0
     },
-    "do_objectID": "574DA430-8445-4627-9099-44F6AF4A8D8B",
+    "do_objectID": "3026C852-307A-4FC7-90CB-0C0FE4070AE4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A071C590-588C-49BA-A5FF-5FD354326A58",
+      "do_objectID": "EF4FAD21-9A10-4079-8DF7-A3A2556970AC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -100,14 +101,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
-            "size": 28.8
+            "name": "Gotham-Book",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

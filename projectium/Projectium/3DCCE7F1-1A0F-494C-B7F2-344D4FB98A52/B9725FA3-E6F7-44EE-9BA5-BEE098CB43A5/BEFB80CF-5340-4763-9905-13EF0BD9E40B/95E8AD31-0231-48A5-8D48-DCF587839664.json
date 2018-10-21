@@ -1,0 +1,68 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "95E8AD31-0231-48A5-8D48-DCF587839664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA669C79-870A-45DA-8ED7-59A0A9795679",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A692D417-0D60-4A9E-B94E-BBAF1739B78E",
+    "height": 898,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/576702b5da35829b38dd18551082fe5dfd3b8b0a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "background",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5E1B898A-0304-4A9F-881B-B5616BA0ABF2",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "9AD939B2-A1F0-423B-893D-EF0B2CCA08F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "background1",
+        "variableIDSketchID": "B614B6D8-E4C8-42EE-95B3-1AD13D338F53"
+      }
+    }
+  }
+}
