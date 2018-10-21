@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 12400,
+  "changeIdentifier": 13371,
   "clippingMaskMode": 0,
   "do_objectID": "13A24328-6723-498D-A76B-7B2E03C87961",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ACF7D8B2-A8DB-4EF5-9F44-C8AAEFF17BE5",
-    "height": 260,
+    "height": 280,
     "width": 240,
     "x": 1098,
     "y": 957
@@ -67,6 +67,18 @@
     {
       "class": "text",
       "id": "2636F958-1914-44A8-8C2E-864476E139CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A50BD8B-7311-427A-9536-4E0091F0D82D"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D3F466E-6EDB-4581-A289-92FFC200355A"
+    },
+    {
+      "class": "rectangle",
+      "id": "EF3E4787-9709-4952-9518-9F0B894AB4B5"
     },
     {
       "class": "text",

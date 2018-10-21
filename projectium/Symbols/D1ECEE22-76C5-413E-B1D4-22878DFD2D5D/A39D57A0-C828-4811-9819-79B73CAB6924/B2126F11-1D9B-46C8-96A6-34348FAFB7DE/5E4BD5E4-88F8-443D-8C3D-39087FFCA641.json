@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E4BD5E4-88F8-443D-8C3D-39087FFCA641",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93992788-EFD6-4AEA-A0E3-7578A7522827",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "D07BDFBF-D5D0-4004-A4A0-C9FE9D1660B2",
+    "do_objectID": "7AC2295C-37C1-4A5D-BD08-1D6B13BA1236"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "097FA551-1851-4156-82AC-A6B1CB06D85C",
+    "height": 32,
+    "width": 106,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contact_btn",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CAB74BA-B5D4-49D5-87B7-4CDA0F9268B6",
+      "overrideName": "4735705C-A592-4C4F-96AE-02234037B516_stringValue",
+      "value": " Profile"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F78AE150-9C52-4DC0-BDD1-55FD97DD23CE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D4780EF8-8D1A-4553-97F8-ACAF9B559E14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9C68D8B5-1C36-4141-BB17-866D355EC68B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "contactbtn",
+        "variableIDSketchID": "DB58B8F4-905C-491F-9CD4-BAB703FC2A0B"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

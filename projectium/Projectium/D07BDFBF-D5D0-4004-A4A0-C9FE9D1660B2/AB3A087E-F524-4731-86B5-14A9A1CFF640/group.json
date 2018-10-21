@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "2AC1CCB7-6D5A-47DC-B507-591530375C17",
     "height": 2055,
-    "width": 1860,
-    "x": -420,
+    "width": 1440,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -36,8 +36,16 @@
       "id": "8F4526E6-36EE-4184-AA79-4659D6383E8A"
     },
     {
-      "class": "group",
-      "id": "E1D8D022-E7E1-4429-94BC-7A6E07168FC1"
+      "class": "symbolInstance",
+      "id": "EA0C336B-261C-48CB-8444-750D07382BCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E8D2CC4-D918-444B-B55F-D911A8511975"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C74860B4-47B8-49FC-86FB-9A51ED91A230"
     },
     {
       "class": "symbolInstance",

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 511,
+    "height": 320,
     "width": 120,
     "x": 0,
     "y": 0
@@ -27,19 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "0BC8593F-0977-4B6B-913C-C93D4DA9C152"
-    },
-    {
-      "class": "group",
-      "id": "C72A3F21-84F7-43A4-9B8E-A811E6F3EC10"
-    },
-    {
-      "class": "group",
-      "id": "540E1E2D-E38A-461E-A65E-06BC45579C52"
     }
   ],
   "name": "contacts",
@@ -54,5 +46,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

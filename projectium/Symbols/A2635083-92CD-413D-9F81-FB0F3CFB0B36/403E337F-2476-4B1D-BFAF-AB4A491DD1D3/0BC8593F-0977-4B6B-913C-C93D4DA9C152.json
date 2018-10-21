@@ -19,7 +19,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CF9FCBD7-C3B1-48CB-952C-2D464E17CF66",
-    "height": 364,
+    "height": 320,
     "width": 120,
     "x": 0,
     "y": 0
@@ -123,5 +123,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

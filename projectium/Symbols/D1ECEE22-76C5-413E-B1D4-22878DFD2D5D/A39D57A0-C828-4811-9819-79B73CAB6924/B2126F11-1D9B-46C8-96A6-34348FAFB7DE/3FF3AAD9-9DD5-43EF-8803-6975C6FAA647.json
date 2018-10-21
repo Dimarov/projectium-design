@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FF3AAD9-9DD5-43EF-8803-6975C6FAA647",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B575442-719E-4CC6-A8B0-34A273218298",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "7A79C312-AB66-4DD9-8F63-B427385F3CE2",
+    "do_objectID": "50F00916-C1B2-4370-8409-6696D90EA11D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80F40103-0CD2-4007-8935-EFD8F7835732",
+    "height": 32,
+    "width": 106,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Follow_btn",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03762CBC-5238-44A7-8FE8-076661F812C2",
+      "overrideName": "21B755BF-1881-4457-B748-D5FFEA1FFFA4_stringValue",
+      "value": "Settings"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0174B047-A369-4263-A6B2-FF03CFFA05D9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "21B6C623-BBF3-4920-8406-2454849379B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0253A56E-F6D2-48B5-8461-D00EA6C266A9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "followbtn",
+        "variableIDSketchID": "C93C9302-5B88-4DDF-BC54-95E2DA8685E7"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

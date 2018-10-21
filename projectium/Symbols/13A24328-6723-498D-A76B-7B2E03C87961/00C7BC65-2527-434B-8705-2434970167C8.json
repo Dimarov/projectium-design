@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Book",
-              "size": 18
+              "name": "Gotham-Medium",
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B03472EC-4707-4DC4-8593-75EBE2532196",
-    "height": 18,
-    "width": 65,
-    "x": 20,
-    "y": 169
+    "height": 12,
+    "width": 44,
+    "x": 50,
+    "y": 199
   },
-  "glyphBounds": "{{1, 1}, {63, 16}}",
+  "glyphBounds": "{{1, 1}, {42, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Book",
-            "size": 18
+            "name": "Gotham-Medium",
+            "size": 12
           }
         },
         "paragraphStyle": {

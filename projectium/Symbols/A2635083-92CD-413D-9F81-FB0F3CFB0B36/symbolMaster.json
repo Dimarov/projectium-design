@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 294,
+  "changeIdentifier": 2983,
   "clippingMaskMode": 0,
   "do_objectID": "A2635083-92CD-413D-9F81-FB0F3CFB0B36",
   "exportOptions": {
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 511,
+    "height": 320,
     "width": 120,
-    "x": 1148,
+    "x": 1802,
     "y": 2137
   },
   "hasBackgroundColor": false,
@@ -46,15 +46,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "9844A16A-2308-4CF8-8480-BBCAF2418BA4"
-    },
     {
       "class": "group",
       "id": "403E337F-2476-4B1D-BFAF-AB4A491DD1D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "68BA4762-5E57-47B7-9FE0-8EB4CF27F7AD"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4DDED29-DD17-40E2-A15C-27CFBE87A226"
+    },
+    {
+      "class": "rectangle",
+      "id": "837D06EE-DFC1-4A24-BDB5-35B0E34BA4FA"
+    },
+    {
+      "class": "oval",
+      "id": "2FB03CCC-8A24-466B-95D8-177D36574494"
     }
   ],
   "name": "Profile/Contacts",
