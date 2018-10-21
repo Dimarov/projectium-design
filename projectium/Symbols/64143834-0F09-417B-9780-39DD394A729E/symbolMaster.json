@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2035,
+  "changeIdentifier": 2877,
   "clippingMaskMode": 0,
   "do_objectID": "64143834-0F09-417B-9780-39DD394A729E",
   "exportOptions": {
@@ -57,44 +57,16 @@
       "id": "F2600313-BEF6-4509-A262-4D9DE1735140"
     },
     {
-      "class": "rectangle",
-      "id": "2DD9D551-5C2C-4B71-9D7D-3AA6BF928C57"
+      "class": "group",
+      "id": "D62FE81A-0053-4217-83B3-DC96624FD039"
     },
     {
-      "class": "text",
-      "id": "3FAE9408-11E1-49C0-80DA-85770AAB6077"
+      "class": "group",
+      "id": "2A3BE264-4291-4EFA-BC64-C27422CE895C"
     },
     {
-      "class": "rectangle",
-      "id": "21A1C964-E306-44A1-8785-3798569C8EB1"
-    },
-    {
-      "class": "text",
-      "id": "A95460E0-4A96-4DC4-82F4-F71B13341848"
-    },
-    {
-      "class": "text",
-      "id": "BE428B2C-C786-47FD-A8AF-EEDAA2268D6E"
-    },
-    {
-      "class": "rectangle",
-      "id": "A799EAD2-6910-4DBF-8B40-075DED50AC7C"
-    },
-    {
-      "class": "text",
-      "id": "699B000B-FA28-4F21-8F8B-2BA5AB020822"
-    },
-    {
-      "class": "text",
-      "id": "52A14601-2E91-4072-8FAE-1C919F93D015"
-    },
-    {
-      "class": "text",
-      "id": "42AFA6D2-49BB-41E6-8BF5-049920B4BC5C"
-    },
-    {
-      "class": "text",
-      "id": "DA55C165-0812-4558-9BB2-B6021FBB42B5"
+      "class": "group",
+      "id": "A4BA8F70-1F6B-4171-ABED-BD8FB3E26A3F"
     }
   ],
   "name": "Profile/Content/Settings",

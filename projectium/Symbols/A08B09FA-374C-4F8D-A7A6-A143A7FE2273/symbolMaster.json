@@ -8,7 +8,7 @@
     "red": 0.09019607843137255
   },
   "booleanOperation": -1,
-  "changeIdentifier": 780,
+  "changeIdentifier": 782,
   "clippingMaskMode": 0,
   "do_objectID": "A08B09FA-374C-4F8D-A7A6-A143A7FE2273",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 1467
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "62F64555-A6C2-4465-AEEC-B9C9D682FD5D"
     }
   ],
-  "name": "Singup/Join",
-  "nameIsFixed": false,
+  "name": "Signup/Join",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

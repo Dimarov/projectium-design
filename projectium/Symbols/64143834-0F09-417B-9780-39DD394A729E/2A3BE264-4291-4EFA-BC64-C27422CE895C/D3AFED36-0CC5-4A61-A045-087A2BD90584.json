@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
-              "size": 24
+              "name": "Gotham-Book",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -30,15 +30,16 @@
         "location": 0
       }
     ],
-    "string": "Security Settings"
+    "string": "Messages Settings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FAE9408-11E1-49C0-80DA-85770AAB6077",
+  "do_objectID": "D3AFED36-0CC5-4A61-A045-087A2BD90584",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "35BD0FD7-2364-4DB9-A0E8-085084473088",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 207,
-    "x": 85,
-    "y": 56
+    "do_objectID": "EFD4451B-6F89-43BD-B15C-BC19B8058DBA",
+    "height": 16,
+    "width": 147,
+    "x": 40,
+    "y": 160
   },
-  "glyphBounds": "{{1, 1}, {204, 22}}",
+  "glyphBounds": "{{1, 1}, {145, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Security Settings",
+  "name": "Messages Settings",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E8737713-A06E-4C34-9E8B-BF121132E562",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B998C536-880A-4AAF-91A2-7F30A20589FB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
-            "size": 24
+            "name": "Gotham-Book",
+            "size": 16
           }
         },
         "paragraphStyle": {

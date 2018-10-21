@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-Book",
               "size": 16
             }
           },
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Password"
+    "string": "Linkedin Account"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "699B000B-FA28-4F21-8F8B-2BA5AB020822",
+  "do_objectID": "D653FDAD-2C10-4DA3-BC2F-26B9C1680D3B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C6E0BE3B-8E0F-41E7-8649-1F2587D85216",
+    "do_objectID": "46559A7F-3276-4510-8E10-9E308D80EBF9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "10513429-1AC4-441C-8DCC-13B8CE7D3923",
+    "do_objectID": "39787175-6A4D-48AA-8514-409F3605B1AF",
     "height": 16,
-    "width": 77,
-    "x": 105,
-    "y": 217
+    "width": 139,
+    "x": 40,
+    "y": 177
   },
-  "glyphBounds": "{{1, 1}, {75, 13}}",
+  "glyphBounds": "{{1, 1}, {137, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Password",
+  "name": "Linkedin Account",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D3EA702A-E2D9-40CC-8D5D-7CF210432204",
+    "do_objectID": "FDA8334F-8870-43D1-AE47-E1B155A2B724",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "390907F7-3A64-4B9F-8713-E878D7804F96",
+      "do_objectID": "45ACBFCB-2DDE-4E03-9A2E-D77849E0D1CB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-Book",
             "size": 16
           }
         },
