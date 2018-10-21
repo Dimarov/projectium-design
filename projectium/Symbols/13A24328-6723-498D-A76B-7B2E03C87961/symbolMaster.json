@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10281,
+  "changeIdentifier": 12400,
   "clippingMaskMode": 0,
   "do_objectID": "13A24328-6723-498D-A76B-7B2E03C87961",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ACF7D8B2-A8DB-4EF5-9F44-C8AAEFF17BE5",
-    "height": 203,
-    "width": 200,
-    "x": 9821,
-    "y": 60
+    "height": 260,
+    "width": 240,
+    "x": 1098,
+    "y": 957
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -69,10 +69,6 @@
       "id": "2636F958-1914-44A8-8C2E-864476E139CE"
     },
     {
-      "class": "symbolInstance",
-      "id": "CE1B7010-5734-4C68-AACF-E3FD2DC9D83B"
-    },
-    {
       "class": "text",
       "id": "D476BA34-FACC-43FC-ABD4-BF76EA2B9384"
     },
@@ -83,9 +79,17 @@
     {
       "class": "text",
       "id": "00C7BC65-2527-434B-8705-2434970167C8"
+    },
+    {
+      "class": "rectangle",
+      "id": "17CFB57A-C690-4818-B7FE-132C8AE3F438"
+    },
+    {
+      "class": "text",
+      "id": "061D2885-F13B-4C9D-9738-918BDE6B07DC"
     }
   ],
-  "name": "ProfileTooltip",
+  "name": "Tooltip/Profile",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -102,6 +106,10 @@
   },
   "symbolID": "47FEEE5F-FB11-44C6-BA16-B1AFDC092A2D",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

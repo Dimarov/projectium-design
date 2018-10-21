@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D20A8A53-2A72-4128-AA5A-91D6EBBC3869",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 371,
+    "x": 0.3809523809522943,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "02D6FF38-46BB-4E89-9445-1349BCC69B4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33C9EDBD-E675-4552-B150-117275F29063"
+    },
+    {
+      "class": "text",
+      "id": "7702B303-E88A-43E1-BFEC-DD478F2A5660"
+    }
+  ],
+  "name": "email-field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "emailfield",
+        "variableIDSketchID": "D20A8A53-2A72-4128-AA5A-91D6EBBC3869"
+      }
+    }
+  }
+}

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 85,
+  "changeIdentifier": 206,
   "clippingMaskMode": 0,
   "do_objectID": "2D993C60-2071-405B-B7F4-3F8F0D0632FD",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 430,
     "width": 350,
-    "x": 6901,
-    "y": 300
+    "x": 2062,
+    "y": 277
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "569F2B8F-BC24-4AEB-8073-7BDD3CC453C8"
     }
   ],
-  "name": "ProfileCardColumn",
-  "nameIsFixed": false,
+  "name": "Profile/Card/1x2",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,6 +77,10 @@
   },
   "symbolID": "5798F45E-776C-48BC-8D56-F8D7DD631C82",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

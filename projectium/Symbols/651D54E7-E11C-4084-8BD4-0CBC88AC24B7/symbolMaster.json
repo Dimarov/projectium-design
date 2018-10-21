@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 126,
+  "changeIdentifier": 424,
   "clippingMaskMode": 0,
   "do_objectID": "651D54E7-E11C-4084-8BD4-0CBC88AC24B7",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 43,
     "width": 103,
-    "x": 3818,
-    "y": 0
+    "x": 504,
+    "y": 2805
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "4014352D-FAF8-4DC4-8D11-0DABF36564EA"
     }
   ],
-  "name": "PrimaryButton",
-  "nameIsFixed": false,
+  "name": "Button/Primary",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,6 +73,10 @@
   },
   "symbolID": "9C68D8B5-1C36-4141-BB17-866D355EC68B",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

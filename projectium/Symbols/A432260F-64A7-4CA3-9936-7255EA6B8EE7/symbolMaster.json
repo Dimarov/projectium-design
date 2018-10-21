@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 327,
+  "changeIdentifier": 501,
   "clippingMaskMode": 0,
   "do_objectID": "A432260F-64A7-4CA3-9936-7255EA6B8EE7",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 350,
-    "x": 6901,
-    "y": 1130
+    "x": 3642,
+    "y": 277
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -69,8 +69,8 @@
       "id": "8F806C6C-A69F-4CAC-9641-EEBDCA68AB19"
     }
   ],
-  "name": "CardInputURL",
-  "nameIsFixed": false,
+  "name": "Profile/Card/URL",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,6 +85,10 @@
   },
   "symbolID": "C44CB0DD-CF5C-4209-A991-C9085718312B",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

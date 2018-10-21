@@ -8,7 +8,7 @@
     "red": 0.09019607843137255
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2834,
+  "changeIdentifier": 2940,
   "clippingMaskMode": 0,
   "do_objectID": "41C5237B-6B1C-4D93-973A-9DAF890C3F9F",
   "exportOptions": {
@@ -27,8 +27,8 @@
     "do_objectID": "B6DFE9F3-2516-4EE9-9705-82A8A257B414",
     "height": 256,
     "width": 420,
-    "x": 8885,
-    "y": 60
+    "x": 1318,
+    "y": 2137
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -76,7 +76,7 @@
       "id": "C4527DF1-91C3-4F57-AA56-1D0EA4B2F386"
     }
   ],
-  "name": "ProfileInfoEdit",
+  "name": "Profile/Info/Edit",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -93,6 +93,10 @@
   },
   "symbolID": "EB3A00A2-5C67-4B12-873E-05E6A3E58339",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

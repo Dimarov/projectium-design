@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 140,
+  "changeIdentifier": 757,
   "clippingMaskMode": 0,
   "do_objectID": "BF2E42BB-4699-4E3B-B82E-8ED340C90B70",
   "exportOptions": {
@@ -28,11 +28,11 @@
     "do_objectID": "917F0324-A33C-4428-9F59-392B4D3274A8",
     "height": 43,
     "width": 103,
-    "x": 10121,
-    "y": 60
+    "x": 851,
+    "y": 2805
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "F063CE18-8A28-46C4-9C91-0850CD285A15"
     }
   ],
-  "name": "PrimaryButtonOutline",
+  "name": "Button/Outline",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -78,6 +78,10 @@
   },
   "symbolID": "043654FB-D6C8-4D86-A1FA-306883055696",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4844,
+  "changeIdentifier": 5098,
   "clippingMaskMode": 0,
   "do_objectID": "AF91864B-1AC6-425E-94DC-20D3AE0777A4",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "E6C67E93-F8DB-4402-ACF9-F0EA299C9C9B",
     "height": 193,
     "width": 280,
-    "x": 9361,
-    "y": 60
+    "x": 768,
+    "y": 957
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,7 +57,7 @@
       "id": "380FDF26-267A-49D4-BC73-2FE8572A40A5"
     }
   ],
-  "name": "ActivityTooltip",
+  "name": "Tooltip/Activity",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -74,6 +74,10 @@
   },
   "symbolID": "4BD1A67C-7B40-438B-B46D-31E799DC4B51",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

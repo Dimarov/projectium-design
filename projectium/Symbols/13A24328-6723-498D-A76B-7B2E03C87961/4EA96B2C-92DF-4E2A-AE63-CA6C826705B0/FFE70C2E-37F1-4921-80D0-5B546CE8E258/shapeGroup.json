@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "741D68DD-7A6E-4272-8E66-5D9D6DE8680F",
-    "height": 202.4975966837933,
-    "width": 200,
+    "height": 259.4975966837933,
+    "width": 240,
     "x": 0,
     "y": 0.5024033162067099
   },
@@ -69,7 +69,7 @@
           "red": 0.1607843137254902
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1.4
       }
@@ -81,10 +81,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.95,
-          "blue": 0.1137254901960784,
-          "green": 0.09803921568627452,
-          "red": 0.09019607843137255
+          "alpha": 1,
+          "blue": 0.196078431372549,
+          "green": 0.1725490196078431,
+          "red": 0.1607843137254902
         },
         "fillType": 0,
         "isEnabled": true,

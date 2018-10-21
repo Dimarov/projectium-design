@@ -8,7 +8,7 @@
     "red": 0.3869313350340136
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7990,
+  "changeIdentifier": 7996,
   "clippingMaskMode": 0,
   "do_objectID": "7B956780-AF0A-4EC8-BE44-0DFBEDF92A46",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 160,
-    "x": 3151,
-    "y": 0
+    "x": 2935,
+    "y": -357
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -69,8 +69,8 @@
       "id": "F9CAE60B-94EA-460D-BEDC-B1777329E30B"
     }
   ],
-  "name": "Loggedin",
-  "nameIsFixed": false,
+  "name": "Header/Loggedin",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,6 +85,10 @@
   },
   "symbolID": "B220CF10-1025-4E11-AF20-7313B3A8AB5A",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }
