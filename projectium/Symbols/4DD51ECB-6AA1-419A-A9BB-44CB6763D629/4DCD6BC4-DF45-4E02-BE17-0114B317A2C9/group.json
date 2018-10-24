@@ -1,11 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7",
+  "do_objectID": "4DCD6BC4-DF45-4E02-BE17-0114B317A2C9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A48BF08B-E9B0-410B-9315-4A375E7E6D15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A58FC753-6120-47DC-9856-5919B34DDBB1",
-    "height": 48,
-    "width": 180,
-    "x": 165,
-    "y": 332
+    "height": 25,
+    "width": 148,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,15 +30,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6D46403E-EE4C-4A76-A79A-7780F9B723D5"
+      "class": "symbolInstance",
+      "id": "3602B972-7CC3-46A6-8604-B118148E2A98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBA6349C-D9BA-41F3-9BFA-77FCC236A807"
     },
     {
       "class": "text",
-      "id": "62022208-F4A7-4A76-B4CF-C686B75C0CAE"
+      "id": "83AAA7E4-CF3E-448A-A22B-F25EAC3F0E67"
     }
   ],
-  "name": "guide-button",
+  "name": "hover",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +50,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "93B12AE6-E8B2-4838-95E1-3DC924DABA70",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -57,8 +58,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "variableID": "guidebutton",
-        "variableIDSketchID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7"
       }
     }
   }

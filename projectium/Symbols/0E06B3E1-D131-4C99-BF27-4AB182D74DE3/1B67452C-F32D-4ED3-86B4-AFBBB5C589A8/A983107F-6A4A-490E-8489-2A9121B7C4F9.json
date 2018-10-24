@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A983107F-6A4A-490E-8489-2A9121B7C4F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E8389E9-6722-4027-A3BD-62B61CE2E153",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BEF5129-E2C9-4A50-98D4-27AA328BF2A8",
+    "height": 78,
+    "width": 860,
+    "x": 0,
+    "y": 516
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications/Card 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DE024E2-4A2D-47B7-B0F7-277FFB329E58",
+      "overrideName": "50FB9909-6EBB-4D2B-96A9-4405FCB093F1_stringValue",
+      "value": "@alexbuzin requested you for a project \"Projectium\""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67785735-5D9C-44FB-BDE3-79CE8B7A1EAF",
+      "overrideName": "6291C6BE-93F5-4B88-94DD-D88DAE947EAB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6FCA1D6-6387-42B0-8B8B-730B77FBE7F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E852A6E-B51E-4B0B-B2EA-C7275EEEA06C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

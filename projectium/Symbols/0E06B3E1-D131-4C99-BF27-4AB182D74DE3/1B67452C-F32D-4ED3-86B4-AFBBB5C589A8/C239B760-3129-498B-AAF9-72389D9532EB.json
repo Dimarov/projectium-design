@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3647058823529412,
-            "green": 0.3647058823529412,
-            "red": 0.9333333333333333
+            "blue": 0.684656675170068,
+            "green": 0.684656675170068,
+            "red": 0.684656675170068
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 10
+              "size": 40
             }
           },
           "paragraphStyle": {
@@ -25,20 +25,44 @@
             "alignment": 0
           }
         },
-        "length": 53,
+        "length": 6,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1872076955782313,
+            "green": 0.1872076955782313,
+            "red": 0.1872076955782313
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gotham-Medium",
+              "size": 40
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 6,
+        "location": 6
       }
     ],
-    "string": "*Password must contain at least one special character"
+    "string": "Oct 24, 2018"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7E9DB489-4D3B-4B0D-90E4-3756CE0458C2",
+  "do_objectID": "C239B760-3129-498B-AAF9-72389D9532EB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCD98FDA-85CE-4E46-A6CB-DF7600D57381",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +73,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6721C5DF-8FA9-4592-B993-BF36A8D5DC35",
-    "height": 10,
-    "width": 271,
-    "x": 20,
-    "y": 58
+    "height": 40,
+    "width": 254,
+    "x": 19,
+    "y": 0.04651162790696617
   },
-  "glyphBounds": "{{0, 0}, {270, 10}}",
+  "glyphBounds": "{{2, 3}, {250, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,34 +87,50 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Password must conta",
-  "nameIsFixed": false,
+  "name": "date",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C9A2430-CE8C-4E06-AFEB-125C7B0B9563",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EC5102F9-16CE-435C-8BCF-F16BBD93F3A3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.3647058823529412,
-          "red": 0.9333333333333333
+          "blue": 0.684656675170068,
+          "green": 0.684656675170068,
+          "red": 0.684656675170068
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 10
+            "size": 40
           }
         },
         "paragraphStyle": {
@@ -103,11 +142,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

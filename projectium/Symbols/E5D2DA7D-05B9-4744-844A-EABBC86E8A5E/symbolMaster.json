@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1036,
+  "changeIdentifier": 52,
   "clippingMaskMode": 0,
-  "do_objectID": "57F727AB-868B-4BCB-A4F4-031143F6CD22",
+  "do_objectID": "E5D2DA7D-05B9-4744-844A-EABBC86E8A5E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 372,
-    "x": 1821,
-    "y": 1467
+    "height": 78,
+    "width": 860,
+    "x": 4637,
+    "y": 1678
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "878786B2-AF84-4F33-9931-CBD9DC5D1E0F"
+      "class": "rectangle",
+      "id": "79B0AF35-8823-47C4-AF23-74BF98D7DC80"
     },
     {
       "class": "symbolInstance",
-      "id": "4FEDA6FC-ABE6-4BDE-B01A-6D926C41F9C7"
+      "id": "6291C6BE-93F5-4B88-94DD-D88DAE947EAB"
+    },
+    {
+      "class": "oval",
+      "id": "4F6371E8-494A-48AE-BD1C-7E0333A3E73C"
+    },
+    {
+      "class": "text",
+      "id": "50FB9909-6EBB-4D2B-96A9-4405FCB093F1"
+    },
+    {
+      "class": "text",
+      "id": "ECA2942C-979C-4BDB-9C2A-2B5AC3662294"
     }
   ],
-  "name": "Input/Password",
+  "name": "Notifications/Card",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,16 +83,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65F1C951-A95A-40E8-884F-B1D5647A1DDB",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    },
-    "io.magicsketch.mirror": {
-      "highestQuality": 1
-    }
-  },
+  "symbolID": "5E852A6E-B51E-4B0B-B2EA-C7275EEEA06C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

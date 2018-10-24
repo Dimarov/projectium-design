@@ -9,36 +9,67 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3647058823529412,
-            "green": 0.3647058823529412,
-            "red": 0.9333333333333333
+            "blue": 0.9607843137254902,
+            "green": 0.6274509803921565,
+            "red": 0.4627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 10
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
-          }
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
-        "length": 53,
+        "length": 11,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gotham-Book",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
+        },
+        "length": 26,
+        "location": 11
       }
     ],
-    "string": "*Password must contain at least one special character"
+    "string": "@alexbuzin sent you a connect request"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7E9DB489-4D3B-4B0D-90E4-3756CE0458C2",
+  "do_objectID": "50FB9909-6EBB-4D2B-96A9-4405FCB093F1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCD98FDA-85CE-4E46-A6CB-DF7600D57381",
+    "do_objectID": "25BFC464-E1AF-4E93-AF69-2A9A7FB0230D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6721C5DF-8FA9-4592-B993-BF36A8D5DC35",
-    "height": 10,
-    "width": 271,
-    "x": 20,
-    "y": 58
+    "do_objectID": "F249623F-D5A3-43E7-926D-730DF97BA6E2",
+    "height": 14,
+    "width": 274,
+    "x": 87,
+    "y": 21
   },
-  "glyphBounds": "{{0, 0}, {270, 10}}",
+  "glyphBounds": "{{0, 0}, {273, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,40 +95,53 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Password must conta",
-  "nameIsFixed": false,
+  "name": "text",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C9A2430-CE8C-4E06-AFEB-125C7B0B9563",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "10F0DBEB-34E6-4A8F-A63C-BCDD247DFD4A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "71FE8778-9235-4963-8E80-BDB1518FA764",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EC5102F9-16CE-435C-8BCF-F16BBD93F3A3",
+      "do_objectID": "12CA2A26-C525-4B86-B3C7-05A8BB161084",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.3647058823529412,
-          "red": 0.9333333333333333
+          "blue": 0.9607843137254902,
+          "green": 0.6274509803921565,
+          "red": 0.4627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 10
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
-        }
+        },
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

@@ -1,11 +1,11 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7",
+  "do_objectID": "FB9572A1-4B6F-46A2-B992-4B7FDFC0457F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A48BF08B-E9B0-410B-9315-4A375E7E6D15",
+    "do_objectID": "8DBB8DBC-20F6-4D22-89FA-EFB71D2520E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,50 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A58FC753-6120-47DC-9856-5919B34DDBB1",
-    "height": 48,
-    "width": 180,
-    "x": 165,
-    "y": 332
+    "do_objectID": "80F94D61-B9F1-4AEA-B67B-16550A21EFF8",
+    "height": 320,
+    "width": 120,
+    "x": 0,
+    "y": 180
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "6D46403E-EE4C-4A76-A79A-7780F9B723D5"
-    },
-    {
-      "class": "text",
-      "id": "62022208-F4A7-4A76-B4CF-C686B75C0CAE"
-    }
+  "name": "Profile/Contacts",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "guide-button",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "93B12AE6-E8B2-4838-95E1-3DC924DABA70",
+    "do_objectID": "D1B88F9D-ED0B-41F4-A79C-FC5C78B62E3E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "48B26833-BE44-46FC-878A-DFD2C321D716",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "variableID": "guidebutton",
-        "variableIDSketchID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7"
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

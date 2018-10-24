@@ -9,36 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3647058823529412,
-            "green": 0.3647058823529412,
-            "red": 0.9333333333333333
+            "blue": 0.3369207057823129,
+            "green": 0.2999530172311981,
+            "red": 0.2907110950934193
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 10
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
-          }
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
-        "length": 53,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "*Password must contain at least one special character"
+    "string": "12:24 PM"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7E9DB489-4D3B-4B0D-90E4-3756CE0458C2",
+  "do_objectID": "ECA2942C-979C-4BDB-9C2A-2B5AC3662294",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCD98FDA-85CE-4E46-A6CB-DF7600D57381",
+    "do_objectID": "1870BAD7-EF60-4196-B3AB-9B5986CF2894",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6721C5DF-8FA9-4592-B993-BF36A8D5DC35",
-    "height": 10,
-    "width": 271,
-    "x": 20,
-    "y": 58
+    "do_objectID": "C83190AC-07F4-44C1-8954-3D40EFF4342B",
+    "height": 14,
+    "width": 62,
+    "x": 87,
+    "y": 43
   },
-  "glyphBounds": "{{0, 0}, {270, 10}}",
+  "glyphBounds": "{{0, 1}, {61, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,40 +67,71 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Password must conta",
-  "nameIsFixed": false,
+  "name": "time",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C9A2430-CE8C-4E06-AFEB-125C7B0B9563",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2CAE6117-6ABD-4525-A253-CFA7B0E3BE69",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "92064C8C-99FA-4BBB-B90A-0E0A4E0151F8",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EC5102F9-16CE-435C-8BCF-F16BBD93F3A3",
+      "do_objectID": "63DD9FF1-08F3-4BD3-8530-B6DD3AA9B3AE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.3647058823529412,
-          "red": 0.9333333333333333
+          "blue": 0.3369207057823129,
+          "green": 0.2999530172311981,
+          "red": 0.2907110950934193
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 10
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
-        }
+        },
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

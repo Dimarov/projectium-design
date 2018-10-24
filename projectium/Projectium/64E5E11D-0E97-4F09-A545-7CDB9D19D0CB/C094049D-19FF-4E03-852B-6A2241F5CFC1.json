@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3647058823529412,
-            "green": 0.3647058823529412,
-            "red": 0.9333333333333333
+            "blue": 0.9607843137254902,
+            "green": 0.6274509803921565,
+            "red": 0.4627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 10
+              "size": 40
             }
           },
           "paragraphStyle": {
@@ -25,20 +25,20 @@
             "alignment": 0
           }
         },
-        "length": 53,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "*Password must contain at least one special character"
+    "string": "My Notifications"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7E9DB489-4D3B-4B0D-90E4-3756CE0458C2",
+  "do_objectID": "C094049D-19FF-4E03-852B-6A2241F5CFC1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCD98FDA-85CE-4E46-A6CB-DF7600D57381",
+    "do_objectID": "63CF6DDB-DAFB-4FFF-9192-83C04AE59532",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6721C5DF-8FA9-4592-B993-BF36A8D5DC35",
-    "height": 10,
-    "width": 271,
-    "x": 20,
-    "y": 58
+    "do_objectID": "4BD4F208-52FC-427F-99BA-44A963833C74",
+    "height": 40,
+    "width": 843,
+    "x": 307,
+    "y": 181
   },
-  "glyphBounds": "{{0, 0}, {270, 10}}",
+  "glyphBounds": "{{3, 2}, {324, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,34 +64,52 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Password must conta",
-  "nameIsFixed": false,
+  "name": "My Notifications",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C9A2430-CE8C-4E06-AFEB-125C7B0B9563",
+    "do_objectID": "98ABD1A2-86E2-43BB-BEC4-F0946B7BA3BB",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EC5102F9-16CE-435C-8BCF-F16BBD93F3A3",
+      "do_objectID": "2AB1EA11-1876-49FD-811F-2F0DA0539D9E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.3647058823529412,
-          "red": 0.9333333333333333
+          "blue": 0.9607843137254902,
+          "green": 0.6274509803921565,
+          "red": 0.4627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 10
+            "size": 40
           }
         },
         "paragraphStyle": {
@@ -103,11 +121,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

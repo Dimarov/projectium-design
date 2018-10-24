@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7",
+  "do_objectID": "D02948C6-EF4C-4539-9DFA-7C3D045A81FA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A48BF08B-E9B0-410B-9315-4A375E7E6D15",
+    "do_objectID": "AC9700B2-71AC-4A63-AAA3-B64B72DCDAA0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A58FC753-6120-47DC-9856-5919B34DDBB1",
-    "height": 48,
-    "width": 180,
-    "x": 165,
-    "y": 332
+    "do_objectID": "1ECC4A09-B142-4EEE-B10C-A20ABD2C036E",
+    "height": 898,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,18 +29,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6D46403E-EE4C-4A76-A79A-7780F9B723D5"
+      "class": "group",
+      "id": "AD94B9E9-D525-42F5-8D6C-767E332C710B"
     },
     {
-      "class": "text",
-      "id": "62022208-F4A7-4A76-B4CF-C686B75C0CAE"
+      "class": "symbolInstance",
+      "id": "FB9572A1-4B6F-46A2-B992-4B7FDFC0457F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74232F39-5A5B-4A07-897A-6E2289DEA9EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C739712-6FE2-4840-9E60-3359DFDD2BE0"
     }
   ],
-  "name": "guide-button",
+  "name": "homepage",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "93B12AE6-E8B2-4838-95E1-3DC924DABA70",
+    "do_objectID": "9205F62D-5635-484D-9F3E-7BDCA7F05FAF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -57,8 +65,8 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "variableID": "guidebutton",
-        "variableIDSketchID": "5F8E830B-617E-41D1-9AE0-1C74E8CED4B7"
+        "variableID": "homepage",
+        "variableIDSketchID": "D02948C6-EF4C-4539-9DFA-7C3D045A81FA"
       }
     }
   }

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59F778E6-162F-4D40-AAF9-1AA1160E8898",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EFE6A90-BEAE-4556-9205-A3D3630A9A89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9118714-914C-4C53-B557-F47C9B312703",
+    "height": 332,
+    "width": 860,
+    "x": 290,
+    "y": 945
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications/Block 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC35BF24-97EB-4D30-B5F5-949AE428C0B8",
+      "overrideName": "C239B760-3129-498B-AAF9-72389D9532EB_stringValue",
+      "value": "Oct 22, 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7FF4CE6-B9BD-4E7E-8134-03AB8E13C37B",
+      "overrideName": "413F3E50-DDC9-4071-A3F4-EA9A0D1F509D/6291C6BE-93F5-4B88-94DD-D88DAE947EAB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF5A865B-9C38-448E-9998-B8526A521C79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6F029BB-DBE7-4A00-BDE2-5F63D608281A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

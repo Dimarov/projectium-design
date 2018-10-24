@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1036,
+  "changeIdentifier": 1454,
   "clippingMaskMode": 0,
-  "do_objectID": "57F727AB-868B-4BCB-A4F4-031143F6CD22",
+  "do_objectID": "0E06B3E1-D131-4C99-BF27-4AB182D74DE3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 372,
-    "x": 1821,
-    "y": 1467
+    "height": 594,
+    "width": 860,
+    "x": 4637,
+    "y": 1862
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,17 +49,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "878786B2-AF84-4F33-9931-CBD9DC5D1E0F"
+      "class": "rectangle",
+      "id": "94042DCC-922D-4F8F-A0CF-7C2F18A1AC74"
     },
     {
-      "class": "symbolInstance",
-      "id": "4FEDA6FC-ABE6-4BDE-B01A-6D926C41F9C7"
+      "class": "group",
+      "id": "1B67452C-F32D-4ED3-86B4-AFBBB5C589A8"
     }
   ],
-  "name": "Input/Password",
+  "name": "Notifications/Block",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -71,16 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65F1C951-A95A-40E8-884F-B1D5647A1DDB",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    },
-    "io.magicsketch.mirror": {
-      "highestQuality": 1
-    }
-  },
+  "symbolID": "E6F029BB-DBE7-4A00-BDE2-5F63D608281A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1036,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "57F727AB-868B-4BCB-A4F4-031143F6CD22",
+  "do_objectID": "4DD51ECB-6AA1-419A-A9BB-44CB6763D629",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 372,
-    "x": 1821,
-    "y": 1467
+    "height": 25,
+    "width": 148,
+    "x": 7517,
+    "y": -357
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "878786B2-AF84-4F33-9931-CBD9DC5D1E0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4FEDA6FC-ABE6-4BDE-B01A-6D926C41F9C7"
+      "id": "4DCD6BC4-DF45-4E02-BE17-0114B317A2C9"
     }
   ],
-  "name": "Input/Password",
+  "name": "Notifications/Card/hover",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,16 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65F1C951-A95A-40E8-884F-B1D5647A1DDB",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    },
-    "io.magicsketch.mirror": {
-      "highestQuality": 1
-    }
-  },
+  "symbolID": "5A0AADD8-CC51-42D6-AACE-AF923B2521E6",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

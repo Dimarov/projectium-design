@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.1137254901960784,
-    "do_objectID": "66F45F02-E3ED-4DEC-9008-001C3A203DED",
+    "do_objectID": "B4F155A2-DDEB-4D94-94C7-C2DCCFF43B43",
     "green": 0.09803921568627452,
     "red": 0.09019607843137255
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D07BDFBF-D5D0-4004-A4A0-C9FE9D1660B2",
+  "do_objectID": "64E5E11D-0E97-4F09-A545-7CDB9D19D0CB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "21E4BD46-F56C-49C0-BB38-EA55FF43DE48",
+    "do_objectID": "A99B024B-AE87-4FFF-B00F-0556CB9486BB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,14 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2BA0DF7C-D7AA-4CD8-BE49-1808AE090128",
+    "do_objectID": "78436040-2D37-44B3-A6B4-435E2C2C439D",
     "height": 2138,
     "width": 1440,
     "x": 5945,
-    "y": 1370
+    "y": 3830
   },
   "grid": {
     "_class": "simpleGrid",
+    "do_objectID": "3DB81D4C-1682-4E4B-B4F4-A5A43D0815C6",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
@@ -42,7 +43,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9759FE04-A382-406E-93A2-18BD5DA18BB6",
+    "do_objectID": "20007199-7A64-4B9D-A58C-AB5D0EA52D3C",
     "guides": [
     ]
   },
@@ -54,16 +55,37 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "AB3A087E-F524-4731-86B5-14A9A1CFF640"
+      "id": "D02948C6-EF4C-4539-9DFA-7C3D045A81FA"
+    },
+    {
+      "class": "text",
+      "id": "8D6A144B-D824-4163-9CC7-65AB59D82564"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59F778E6-162F-4D40-AAF9-1AA1160E8898"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71296117-B4BB-4D94-B2D7-90A9CB57BEC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3318F210-75AE-4BE2-B85F-FF5DCB7EF123"
+    },
+    {
+      "class": "text",
+      "id": "C094049D-19FF-4E03-852B-6A2241F5CFC1"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 65,
+    "do_objectID": "3A517FB6-7235-4922-A0D0-FC479CC0E384",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -76,7 +98,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1110
   },
-  "name": "Projectium Profile Desktop",
+  "name": "Projectium Notifications Desktop",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -85,14 +107,14 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "2307DB22-8CCB-4AB9-9AC8-8DB90265B182",
+    "do_objectID": "517C3CC4-FDD1-4CD6-8048-4C41BFF6D48D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -5346,7 +5368,7 @@
         ],
         "timelineType": "component",
         "timelineUniqueAppID": "D3E7D44A-AD09-4CCE-9846-788A540C6B04-eBCilxRRmNTNtMfDSNhoRTQf8AQxbBfhB238d+p0YCk=",
-        "variableIDSketchID": "D07BDFBF-D5D0-4004-A4A0-C9FE9D1660B2"
+        "variableIDSketchID": "64E5E11D-0E97-4F09-A545-7CDB9D19D0CB"
       }
     },
     "io.magicsketch.mirror": {
@@ -5356,7 +5378,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0BDCF603-05A0-4C09-BA98-A7E939B18CFE",
+    "do_objectID": "FBA4255C-5637-4C73-9D5E-1D059B9731A8",
     "guides": [
     ]
   }
